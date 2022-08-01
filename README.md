@@ -3,7 +3,7 @@
 This repository provides materials to reproduce the results presented in the paper "**Remaining cycle time prediction with Graph Neural Networks for Predictive Process Monitoring**". 
 
 ## Dataset
-The **1_Data** folder contains raw data of Helpdesk and BPIC20 datasets. We can not provide the EMS3141 data due to the confidentiality issues.
+The **1_Data** folder contains raw data of Helpdesk and BPIC20 datasets. We can not provide the EMS3141 data due to the confidentiality reasons.
 The statistics of theses logs are shown in the table below:
 Event log |  Num. cases | Num. activities | Num. events | Avg. case length | Max. case lenth | Avg. case duration (days) | Max. case duration (days) | Min. case duration (days) | Variants
 ---|---|---|---|---|---|---|---|---|---
