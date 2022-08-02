@@ -13,7 +13,7 @@ EMS3141 | 99282 | 35 | 287117 | 28.76 | 44 | 7.01 | 80.87 | 0.69 | 296
 
 ## Installation
 The project is implemented with jupyter notebook in both python and pytorch.
-* pytorch: https://pytorch.org/get-started/locally/
+* pytorch: Follow the instructions in the PyTorch website https://pytorch.org/get-started/locally/
 * torch geometric: https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
 * PM4Py: 
   ``pip install pm4py``
