@@ -1,0 +1,2596 @@
+Case_ID,Activity,timestamp
+Case 1015,Assign seriousness,2012/02/10 14:44:10
+Case 1015,Take in charge ticket,2012/02/10 15:48:04
+Case 1015,Resolve ticket,2012/02/15 11:07:17
+Case 1015,Closed,2012/03/14 14:50:15
+Case 102,Assign seriousness,2012/01/30 09:09:29
+Case 102,Take in charge ticket,2012/01/30 09:09:57
+Case 102,Resolve ticket,2012/01/31 08:12:06
+Case 102,Closed,2012/03/16 09:12:11
+Case 1022,Assign seriousness,2012/01/05 16:55:40
+Case 1022,Assign seriousness,2012/01/05 16:55:53
+Case 1022,Take in charge ticket,2012/01/11 11:59:45
+Case 1022,Resolve ticket,2012/01/12 10:39:39
+Case 1022,Closed,2012/02/07 17:00:35
+Case 1032,Assign seriousness,2012/04/11 15:07:25
+Case 1032,Take in charge ticket,2012/04/11 15:07:34
+Case 1032,Wait,2012/04/17 12:29:31
+Case 1032,Resolve ticket,2012/05/15 12:31:57
+Case 1032,Closed,2012/06/01 15:20:26
+Case 1040,Assign seriousness,2012/02/20 08:07:43
+Case 1040,Take in charge ticket,2012/02/20 08:07:57
+Case 1040,Resolve ticket,2012/02/21 16:35:15
+Case 1040,Closed,2012/04/04 07:10:38
+Case 1046,Assign seriousness,2012/04/02 08:42:04
+Case 1046,Take in charge ticket,2012/04/02 08:42:15
+Case 1046,Resolve ticket,2012/04/02 10:12:04
+Case 1046,Closed,2012/05/18 08:52:05
+Case 1049,Assign seriousness,2012/02/09 14:14:35
+Case 1049,Take in charge ticket,2012/02/09 14:15:26
+Case 1049,Resolve ticket,2012/02/14 16:45:38
+Case 1049,Resolve ticket,2012/02/14 16:45:38
+Case 1049,Closed,2012/03/24 14:20:38
+Case 1055,Assign seriousness,2012/01/23 15:13:31
+Case 1055,Take in charge ticket,2012/01/23 16:49:47
+Case 1055,Resolve ticket,2012/01/24 14:19:03
+Case 1055,Closed,2012/02/23 15:20:47
+Case 1059,Assign seriousness,2012/01/09 07:53:54
+Case 1059,Take in charge ticket,2012/01/09 09:30:45
+Case 1059,Resolve ticket,2012/01/09 10:31:05
+Case 1059,Closed,2012/02/19 17:00:46
+Case 1062,Take in charge ticket,2012/01/11 16:46:12
+Case 1062,Wait,2012/01/12 13:49:28
+Case 1062,Resolve ticket,2012/02/07 15:06:45
+Case 1062,Closed,2012/03/09 09:11:08
+Case 1067,Assign seriousness,2012/02/14 10:34:26
+Case 1067,Take in charge ticket,2012/02/14 11:48:20
+Case 1067,Resolve ticket,2012/02/16 11:40:57
+Case 1067,Closed,2012/03/23 10:40:44
+Case 1073,Assign seriousness,2011/12/30 08:47:19
+Case 1073,Take in charge ticket,2012/01/02 08:40:49
+Case 1073,Resolve ticket,2012/01/02 09:45:20
+Case 1073,Closed,2012/02/08 08:50:32
+Case 1083,Assign seriousness,2012/02/28 16:02:22
+Case 1083,Assign seriousness,2012/02/28 16:02:42
+Case 1083,Take in charge ticket,2012/02/28 16:55:56
+Case 1083,Resolve ticket,2012/02/28 16:56:41
+Case 1083,Closed,2012/03/30 15:10:24
+Case 1093,Assign seriousness,2012/01/13 16:27:38
+Case 1093,Resolve ticket,2012/01/13 16:34:53
+Case 1093,Closed,2012/02/17 16:30:54
+Case 11,Assign seriousness,2011/12/21 15:24:41
+Case 11,Take in charge ticket,2011/12/21 15:25:34
+Case 11,Resolve ticket,2011/12/22 09:55:43
+Case 11,Closed,2012/01/21 15:30:31
+Case 1115,Assign seriousness,2012/02/28 10:47:09
+Case 1115,Take in charge ticket,2012/02/28 10:47:25
+Case 1115,Resolve ticket,2012/02/28 16:40:58
+Case 1115,Closed,2012/04/14 09:51:26
+Case 1120,Assign seriousness,2012/01/05 08:26:10
+Case 1120,Take in charge ticket,2012/01/05 08:26:27
+Case 1120,Resolve ticket,2012/01/05 10:20:52
+Case 1120,Closed,2012/02/12 08:31:29
+Case 1126,Assign seriousness,2012/01/10 13:31:21
+Case 1126,Resolve ticket,2012/01/13 08:28:55
+Case 1126,Resolve ticket,2012/01/13 08:28:56
+Case 1126,Closed,2012/02/10 13:41:18
+Case 1127,Assign seriousness,2012/01/18 09:39:21
+Case 1127,Take in charge ticket,2012/01/18 11:23:37
+Case 1127,Resolve ticket,2012/01/18 14:14:02
+Case 1127,Closed,2012/02/18 09:40:18
+Case 1128,Assign seriousness,2012/04/11 12:51:59
+Case 1128,Take in charge ticket,2012/04/11 12:52:12
+Case 1128,Resolve ticket,2012/04/16 09:54:56
+Case 1128,Closed,2012/05/12 13:00:18
+Case 1131,Assign seriousness,2012/03/28 09:03:55
+Case 1131,Take in charge ticket,2012/03/28 09:04:21
+Case 1131,Resolve ticket,2012/03/28 09:08:00
+Case 1131,Closed,2012/04/28 09:10:22
+Case 1132,Assign seriousness,2012/01/11 10:52:28
+Case 1132,Take in charge ticket,2012/01/11 13:40:05
+Case 1132,Resolve ticket,2012/01/18 15:15:37
+Case 1132,Closed,2012/02/24 11:00:23
+Case 1133,Assign seriousness,2012/01/18 10:23:55
+Case 1133,Take in charge ticket,2012/01/18 10:24:06
+Case 1133,Resolve ticket,2012/01/18 13:50:24
+Case 1133,Closed,2012/03/04 10:31:13
+Case 1138,Assign seriousness,2012/01/09 16:23:38
+Case 1138,Take in charge ticket,2012/01/09 16:23:57
+Case 1138,Resolve ticket,2012/01/17 11:49:33
+Case 1138,Closed,2012/03/08 16:30:40
+Case 1153,Assign seriousness,2012/01/10 15:57:01
+Case 1153,Take in charge ticket,2012/01/16 08:53:10
+Case 1153,Wait,2012/01/27 15:32:26
+Case 1153,Resolve ticket,2012/01/31 17:04:22
+Case 1153,Closed,2012/03/01 17:04:42
+Case 1172,Assign seriousness,2012/03/19 10:50:29
+Case 1172,Take in charge ticket,2012/03/29 14:18:31
+Case 1172,Wait,2012/04/02 07:52:47
+Case 1172,Resolve ticket,2012/04/02 09:05:06
+Case 1172,Closed,2012/04/19 12:10:39
+Case 1175,Assign seriousness,2012/01/11 15:59:39
+Case 1175,Take in charge ticket,2012/01/16 09:46:04
+Case 1175,Resolve ticket,2012/01/16 11:20:57
+Case 1175,Take in charge ticket,2012/01/16 11:21:55
+Case 1175,Resolve ticket,2012/01/16 11:45:15
+Case 1175,Closed,2012/02/26 16:00:27
+Case 1181,Assign seriousness,2012/02/13 09:15:33
+Case 1181,Take in charge ticket,2012/02/13 09:19:18
+Case 1181,Resolve ticket,2012/02/13 11:42:19
+Case 1181,Closed,2012/03/21 09:20:34
+Case 1190,Assign seriousness,2012/01/02 10:49:47
+Case 1190,Take in charge ticket,2012/01/02 10:49:58
+Case 1190,Resolve ticket,2012/01/02 12:00:55
+Case 1190,Resolve ticket,2012/01/02 12:00:56
+Case 1190,Closed,2012/02/17 10:50:35
+Case 1192,Take in charge ticket,2012/03/27 09:53:32
+Case 1192,Resolve ticket,2012/03/29 07:37:55
+Case 1192,Closed,2012/05/10 10:00:20
+Case 1195,Assign seriousness,2012/01/24 13:27:17
+Case 1195,Take in charge ticket,2012/01/31 11:29:27
+Case 1195,Resolve ticket,2012/02/07 10:01:30
+Case 1195,Closed,2012/03/08 10:01:56
+Case 1197,Assign seriousness,2011/12/20 09:21:55
+Case 1197,Assign seriousness,2011/12/20 09:44:46
+Case 1197,Take in charge ticket,2011/12/21 10:09:33
+Case 1197,Wait,2011/12/21 11:24:14
+Case 1197,Resolve ticket,2011/12/22 15:48:16
+Case 1197,Closed,2012/02/05 13:50:46
+Case 1198,Assign seriousness,2012/03/07 15:57:18
+Case 1198,Resolve ticket,2012/03/07 15:59:42
+Case 1198,Resolve ticket,2012/03/07 15:59:43
+Case 1198,Closed,2012/04/28 15:00:45
+Case 1199,Assign seriousness,2012/02/21 15:27:29
+Case 1199,Take in charge ticket,2012/02/22 08:57:31
+Case 1199,Resolve ticket,2012/02/22 10:17:46
+Case 1199,Closed,2012/03/23 15:31:22
+Case 1208,Assign seriousness,2012/02/10 08:59:22
+Case 1208,Take in charge ticket,2012/02/10 08:59:55
+Case 1208,Resolve ticket,2012/02/10 17:05:32
+Case 1208,Closed,2012/04/06 08:00:36
+Case 1215,Assign seriousness,2012/02/07 10:27:05
+Case 1215,Take in charge ticket,2012/02/07 11:04:13
+Case 1215,Resolve ticket,2012/02/08 13:35:19
+Case 1215,Closed,2012/03/09 10:32:07
+Case 1217,Assign seriousness,2012/01/11 11:00:46
+Case 1217,Take in charge ticket,2012/01/11 11:00:55
+Case 1217,Resolve ticket,2012/01/30 08:29:07
+Case 1217,Closed,2012/02/14 08:29:19
+Case 1219,Assign seriousness,2012/01/25 16:22:05
+Case 1219,Take in charge ticket,2012/01/25 16:43:36
+Case 1219,Resolve ticket,2012/02/02 11:01:41
+Case 1219,Closed,2012/03/11 16:30:25
+Case 1229,Assign seriousness,2012/01/18 13:49:23
+Case 1229,Take in charge ticket,2012/01/18 13:49:32
+Case 1229,Resolve ticket,2012/01/25 08:31:08
+Case 1229,Closed,2012/02/24 13:50:30
+Case 1236,Assign seriousness,2012/01/20 11:58:38
+Case 1236,Take in charge ticket,2012/01/27 09:24:34
+Case 1236,Wait,2012/02/10 16:27:16
+Case 1236,Resolve ticket,2012/02/28 15:51:07
+Case 1236,Closed,2012/03/14 15:51:15
+Case 1244,Assign seriousness,2012/01/03 14:28:01
+Case 1244,Take in charge ticket,2012/01/09 11:30:54
+Case 1244,Resolve ticket,2012/01/09 11:34:14
+Case 1244,Closed,2012/02/16 14:31:09
+Case 1248,Assign seriousness,2011/12/28 15:03:25
+Case 1248,Take in charge ticket,2012/01/02 08:52:16
+Case 1248,Wait,2012/01/11 13:50:22
+Case 1248,Wait,2012/01/17 13:37:05
+Case 1248,Resolve ticket,2012/01/18 16:54:54
+Case 1248,Closed,2012/02/02 16:55:07
+Case 1259,Assign seriousness,2011/12/22 14:22:19
+Case 1259,Resolve ticket,2011/12/22 14:23:53
+Case 1259,Resolve ticket,2011/12/22 14:23:54
+Case 1259,Closed,2012/02/04 14:30:25
+Case 1293,Assign seriousness,2012/02/13 15:11:25
+Case 1293,Take in charge ticket,2012/02/14 11:51:06
+Case 1293,Resolve ticket,2012/02/14 13:24:02
+Case 1293,Closed,2012/03/15 15:20:21
+Case 1311,Assign seriousness,2012/01/24 08:16:57
+Case 1311,Take in charge ticket,2012/01/24 08:17:22
+Case 1311,Resolve ticket,2012/01/24 09:27:58
+Case 1311,Closed,2012/03/10 08:21:13
+Case 1325,Assign seriousness,2012/01/11 09:44:33
+Case 1325,Resolve ticket,2012/01/12 14:25:42
+Case 1325,Closed,2012/02/11 09:50:24
+Case 1329,Assign seriousness,2012/03/01 13:23:41
+Case 1329,Take in charge ticket,2012/03/02 07:57:34
+Case 1329,Resolve ticket,2012/03/02 14:50:16
+Case 1329,Closed,2012/04/03 12:30:26
+Case 1334,Assign seriousness,2012/02/17 14:33:50
+Case 1334,Assign seriousness,2012/02/17 14:45:57
+Case 1334,Take in charge ticket,2012/02/20 08:47:32
+Case 1334,Wait,2012/02/21 17:00:14
+Case 1334,Resolve ticket,2012/02/22 13:53:23
+Case 1334,Closed,2012/04/06 09:40:40
+Case 1336,Assign seriousness,2012/02/07 11:20:12
+Case 1336,Take in charge ticket,2012/02/07 11:20:24
+Case 1336,Resolve ticket,2012/02/09 11:44:03
+Case 1336,Resolve ticket,2012/02/09 11:44:04
+Case 1336,Closed,2012/03/09 11:30:21
+Case 1349,Assign seriousness,2011/12/27 14:51:23
+Case 1349,Take in charge ticket,2012/01/05 10:04:26
+Case 1349,Wait,2012/01/10 11:11:34
+Case 1349,Resolve ticket,2012/01/20 09:09:17
+Case 1349,Closed,2012/02/19 09:10:05
+Case 1354,Assign seriousness,2012/03/30 15:30:09
+Case 1354,Take in charge ticket,2012/04/02 15:20:47
+Case 1354,Wait,2012/04/06 14:12:57
+Case 1354,Resolve ticket,2012/04/20 10:42:17
+Case 1354,Closed,2012/05/08 13:10:15
+Case 1355,Assign seriousness,2012/01/26 13:16:11
+Case 1355,Take in charge ticket,2012/01/26 13:20:09
+Case 1355,Resolve ticket,2012/01/27 15:27:23
+Case 1355,Closed,2012/03/14 13:20:25
+Case 1365,Insert ticket,2012/02/27 08:10:47
+Case 1365,Take in charge ticket,2012/02/27 08:11:11
+Case 1365,Resolve ticket,2012/02/27 09:28:28
+Case 1365,Closed,2012/04/05 07:20:30
+Case 1368,Assign seriousness,2012/02/29 13:57:19
+Case 1368,Resolve ticket,2012/03/02 10:36:18
+Case 1368,Closed,2012/04/07 13:00:38
+Case 1374,Assign seriousness,2011/12/20 14:07:56
+Case 1374,Take in charge ticket,2011/12/21 10:08:25
+Case 1374,Wait,2012/01/03 10:19:20
+Case 1374,Resolve ticket,2012/01/11 11:46:16
+Case 1374,Closed,2012/02/12 15:40:48
+Case 138,Assign seriousness,2012/03/02 09:13:46
+Case 138,Take in charge ticket,2012/03/02 09:13:56
+Case 138,Resolve ticket,2012/03/02 09:34:03
+Case 138,Closed,2012/04/06 08:20:51
+Case 1389,Assign seriousness,2011/12/28 08:25:32
+Case 1389,Take in charge ticket,2011/12/28 08:25:43
+Case 1389,Resolve ticket,2011/12/28 08:47:54
+Case 1389,Closed,2012/02/03 08:30:46
+Case 1401,Assign seriousness,2012/02/22 11:12:44
+Case 1401,Take in charge ticket,2012/02/22 11:13:10
+Case 1401,Wait,2012/02/22 11:30:21
+Case 1401,Resolve ticket,2012/04/06 14:45:11
+Case 1401,Closed,2012/04/21 14:45:23
+Case 1405,Assign seriousness,2012/03/20 08:53:06
+Case 1405,Take in charge ticket,2012/03/21 10:10:25
+Case 1405,Resolve ticket,2012/03/26 08:32:37
+Case 1405,Closed,2012/05/03 08:01:13
+Case 1418,Assign seriousness,2012/02/24 12:01:35
+Case 1418,Take in charge ticket,2012/02/28 15:35:26
+Case 1418,Resolve ticket,2012/03/01 10:51:04
+Case 1418,Closed,2012/04/12 11:00:43
+Case 142,Assign seriousness,2012/03/07 11:00:05
+Case 142,Take in charge ticket,2012/03/08 13:53:36
+Case 142,Resolve ticket,2012/03/09 14:48:25
+Case 142,Closed,2012/04/07 10:11:18
+Case 1437,Assign seriousness,2012/03/15 13:30:54
+Case 1437,Take in charge ticket,2012/03/16 08:13:25
+Case 1437,Resolve ticket,2012/04/11 07:26:38
+Case 1437,Closed,2012/05/11 07:27:07
+Case 1439,Assign seriousness,2012/03/23 11:06:05
+Case 1439,Take in charge ticket,2012/03/23 11:06:13
+Case 1439,Resolve ticket,2012/03/23 11:11:09
+Case 1439,Closed,2012/04/25 10:10:16
+Case 1443,Assign seriousness,2012/01/19 11:41:57
+Case 1443,Resolve ticket,2012/01/19 11:42:05
+Case 1443,Closed,2012/02/21 11:51:00
+Case 1444,Assign seriousness,2012/01/17 11:39:41
+Case 1444,Take in charge ticket,2012/01/17 14:31:59
+Case 1444,Resolve ticket,2012/01/17 14:49:02
+Case 1444,Closed,2012/02/17 11:40:14
+Case 1448,Assign seriousness,2012/03/26 12:58:55
+Case 1448,Take in charge ticket,2012/03/28 15:35:40
+Case 1448,Wait,2012/03/28 15:39:42
+Case 1448,Resolve ticket,2012/03/30 14:07:19
+Case 1448,Closed,2012/04/28 10:30:51
+Case 1477,Assign seriousness,2011/12/19 15:47:05
+Case 1477,Take in charge ticket,2011/12/21 09:58:34
+Case 1477,Resolve ticket,2011/12/21 11:13:41
+Case 1477,Closed,2012/01/19 15:50:41
+Case 148,Assign seriousness,2012/01/09 11:19:35
+Case 148,Take in charge ticket,2012/01/09 16:14:26
+Case 148,Resolve ticket,2012/01/09 16:14:53
+Case 148,Resolve ticket,2012/01/09 16:14:53
+Case 148,Closed,2012/02/09 11:20:25
+Case 1486,Assign seriousness,2012/01/18 15:03:59
+Case 1486,Take in charge ticket,2012/01/18 15:04:20
+Case 1486,Resolve ticket,2012/01/18 15:35:35
+Case 1486,Closed,2012/02/18 15:10:24
+Case 1493,Assign seriousness,2012/03/19 08:26:04
+Case 1493,Take in charge ticket,2012/03/19 08:26:14
+Case 1493,Resolve ticket,2012/03/19 08:47:06
+Case 1493,Closed,2012/04/26 07:30:52
+Case 1503,Assign seriousness,2012/03/26 08:58:13
+Case 1503,Take in charge ticket,2012/03/26 13:33:44
+Case 1503,Resolve ticket,2012/03/26 13:57:44
+Case 1503,Closed,2012/05/24 09:00:32
+Case 1508,Assign seriousness,2012/03/15 13:33:06
+Case 1508,Take in charge ticket,2012/03/16 13:13:00
+Case 1508,Resolve ticket,2012/03/16 13:58:02
+Case 1508,Closed,2012/04/17 12:41:20
+Case 1520,Assign seriousness,2012/03/06 08:21:53
+Case 1520,Take in charge ticket,2012/03/07 08:31:07
+Case 1520,Resolve ticket,2012/03/13 14:17:40
+Case 1520,Closed,2012/04/19 07:30:32
+Case 1531,Assign seriousness,2012/02/06 15:06:10
+Case 1531,Take in charge ticket,2012/02/06 15:21:24
+Case 1531,Resolve ticket,2012/02/06 15:30:10
+Case 1531,Closed,2012/03/21 15:10:55
+Case 1558,Assign seriousness,2011/12/28 14:13:57
+Case 1558,Take in charge ticket,2011/12/28 14:33:19
+Case 1558,Resolve ticket,2011/12/28 14:35:20
+Case 1558,Closed,2012/02/10 14:20:13
+Case 1563,Assign seriousness,2011/12/30 16:04:01
+Case 1563,Take in charge ticket,2012/01/03 09:00:45
+Case 1563,Resolve ticket,2012/01/16 13:58:46
+Case 1563,Closed,2012/02/01 16:10:29
+Case 1564,Assign seriousness,2012/04/11 14:51:15
+Case 1564,Take in charge ticket,2012/04/11 15:11:06
+Case 1564,Resolve ticket,2012/04/12 07:33:40
+Case 1564,Closed,2012/05/25 15:00:30
+Case 1569,Assign seriousness,2012/04/03 13:09:37
+Case 1569,Take in charge ticket,2012/04/03 13:48:05
+Case 1569,Resolve ticket,2012/04/03 14:15:19
+Case 1569,Closed,2012/05/11 13:10:25
+Case 1588,Assign seriousness,2012/02/20 09:32:11
+Case 1588,Take in charge ticket,2012/02/20 10:26:08
+Case 1588,Resolve ticket,2012/02/21 10:40:26
+Case 1588,Closed,2012/03/29 08:40:25
+Case 1596,Assign seriousness,2012/03/15 15:39:13
+Case 1596,Take in charge ticket,2012/03/16 16:28:29
+Case 1596,Resolve ticket,2012/03/19 13:26:56
+Case 1596,Closed,2012/05/06 14:40:39
+Case 1598,Assign seriousness,2012/01/26 11:20:22
+Case 1598,Take in charge ticket,2012/01/26 11:58:23
+Case 1598,Resolve ticket,2012/01/26 14:29:11
+Case 1598,Resolve ticket,2012/01/26 14:29:12
+Case 1598,Closed,2012/02/28 11:30:30
+Case 1599,Assign seriousness,2012/02/03 11:25:26
+Case 1599,Take in charge ticket,2012/02/09 08:15:34
+Case 1599,Resolve ticket,2012/02/10 10:20:55
+Case 1599,Closed,2012/03/22 11:30:36
+Case 16,Assign seriousness,2012/02/22 14:16:52
+Case 16,Take in charge ticket,2012/02/22 16:14:07
+Case 16,Take in charge ticket,2012/02/22 16:23:57
+Case 16,Resolve ticket,2012/02/23 09:47:38
+Case 16,Closed,2012/03/24 14:20:19
+Case 1601,Assign seriousness,2012/04/02 16:04:30
+Case 1601,Take in charge ticket,2012/04/05 07:30:00
+Case 1601,Resolve ticket,2012/04/05 16:03:45
+Case 1601,Closed,2012/05/16 16:01:09
+Case 1602,Assign seriousness,2012/03/21 14:50:05
+Case 1602,Take in charge ticket,2012/03/22 13:24:03
+Case 1602,Resolve ticket,2012/03/27 09:59:27
+Case 1602,Closed,2012/04/21 14:00:28
+Case 1620,Assign seriousness,2012/01/26 11:12:08
+Case 1620,Take in charge ticket,2012/02/03 11:21:30
+Case 1620,Wait,2012/02/06 10:56:05
+Case 1620,Take in charge ticket,2012/02/06 15:16:39
+Case 1620,Wait,2012/02/08 16:24:27
+Case 1620,Resolve ticket,2012/02/10 08:17:49
+Case 1620,Closed,2012/02/29 16:40:29
+Case 1626,Assign seriousness,2012/01/11 14:23:12
+Case 1626,Take in charge ticket,2012/01/12 11:41:57
+Case 1626,Resolve ticket,2012/02/23 13:21:16
+Case 1626,Closed,2012/03/09 13:21:27
+Case 1632,Assign seriousness,2012/03/21 11:22:01
+Case 1632,Take in charge ticket,2012/03/21 14:09:40
+Case 1632,Resolve ticket,2012/03/22 14:31:13
+Case 1632,Closed,2012/05/19 10:30:37
+Case 1634,Assign seriousness,2012/03/21 13:39:08
+Case 1634,Take in charge ticket,2012/03/21 13:39:35
+Case 1634,Resolve ticket,2012/03/23 14:27:14
+Case 1634,Closed,2012/05/13 12:40:38
+Case 1642,Assign seriousness,2012/03/13 08:10:15
+Case 1642,Take in charge ticket,2012/03/26 07:27:50
+Case 1642,Wait,2012/03/26 07:57:24
+Case 1642,Resolve ticket,2012/03/30 13:59:03
+Case 1642,Closed,2012/04/19 13:20:34
+Case 1645,Assign seriousness,2011/12/21 10:27:32
+Case 1645,Resolve ticket,2011/12/21 11:48:10
+Case 1645,Closed,2012/01/21 10:30:30
+Case 1646,Assign seriousness,2011/12/30 08:07:03
+Case 1646,Take in charge ticket,2011/12/30 08:07:26
+Case 1646,Resolve ticket,2012/01/03 09:15:43
+Case 1646,Closed,2012/02/05 08:11:30
+Case 165,Assign seriousness,2012/01/13 16:36:23
+Case 165,Resolve ticket,2012/01/13 16:36:49
+Case 165,Closed,2012/02/26 16:40:38
+Case 1653,Assign seriousness,2012/01/10 16:23:50
+Case 1653,Take in charge ticket,2012/01/12 16:58:06
+Case 1653,Resolve ticket,2012/01/17 15:46:20
+Case 1653,Closed,2012/02/10 16:30:30
+Case 1665,Assign seriousness,2012/03/06 16:55:53
+Case 1665,Take in charge ticket,2012/03/06 17:04:43
+Case 1665,Resolve ticket,2012/03/08 14:59:13
+Case 1665,Closed,2012/04/06 16:00:22
+Case 1673,Assign seriousness,2012/04/11 09:39:07
+Case 1673,Take in charge ticket,2012/04/11 09:39:24
+Case 1673,Resolve ticket,2012/04/12 09:55:11
+Case 1673,Closed,2012/05/18 09:40:25
+Case 168,Assign seriousness,2012/01/09 10:01:47
+Case 168,Take in charge ticket,2012/01/09 11:20:28
+Case 168,Resolve ticket,2012/01/09 11:21:29
+Case 168,Closed,2012/02/22 10:10:48
+Case 1680,Assign seriousness,2012/02/22 13:01:58
+Case 1680,Take in charge ticket,2012/02/23 11:36:48
+Case 1680,Wait,2012/03/13 14:54:41
+Case 1680,Resolve ticket,2012/03/28 08:27:37
+Case 1680,Closed,2012/04/12 08:27:49
+Case 1687,Assign seriousness,2012/02/24 08:59:14
+Case 1687,Take in charge ticket,2012/02/24 08:59:23
+Case 1687,Resolve ticket,2012/02/24 14:57:50
+Case 1687,Closed,2012/04/04 08:00:28
+Case 1716,Assign seriousness,2011/12/23 09:48:40
+Case 1716,Take in charge ticket,2011/12/23 09:48:57
+Case 1716,Wait,2011/12/23 15:53:58
+Case 1716,Wait,2012/01/11 08:45:27
+Case 1716,Wait,2012/01/11 08:45:27
+Case 1716,Resolve ticket,2012/01/27 09:48:44
+Case 1716,Closed,2012/02/11 09:48:53
+Case 1717,Assign seriousness,2012/01/16 08:41:16
+Case 1717,Resolve ticket,2012/01/16 13:58:55
+Case 1717,Closed,2012/02/29 08:50:22
+Case 1719,Assign seriousness,2012/01/30 08:04:44
+Case 1719,Take in charge ticket,2012/01/30 08:05:01
+Case 1719,Resolve ticket,2012/02/01 16:19:39
+Case 1719,Resolve ticket,2012/02/01 16:19:40
+Case 1719,Closed,2012/03/16 08:10:53
+Case 1725,Assign seriousness,2012/01/23 11:15:33
+Case 1725,Resolve ticket,2012/01/23 11:15:57
+Case 1725,Closed,2012/03/09 11:22:21
+Case 1732,Assign seriousness,2012/03/29 15:31:13
+Case 1732,Take in charge ticket,2012/03/29 15:31:30
+Case 1732,Resolve ticket,2012/03/29 15:59:29
+Case 1732,Closed,2012/05/01 15:41:37
+Case 1743,Assign seriousness,2012/02/08 09:40:05
+Case 1743,Resolve ticket,2012/02/08 09:40:28
+Case 1743,Resolve ticket,2012/02/08 09:40:28
+Case 1743,Closed,2012/03/14 09:52:24
+Case 1752,Assign seriousness,2012/02/08 15:20:25
+Case 1752,Take in charge ticket,2012/02/10 10:21:47
+Case 1752,Wait,2012/02/13 11:32:49
+Case 1752,Take in charge ticket,2012/02/14 16:28:17
+Case 1752,Take in charge ticket,2012/02/14 16:37:51
+Case 1752,Resolve ticket,2012/02/15 14:25:54
+Case 1752,Closed,2012/03/29 09:30:25
+Case 1753,Assign seriousness,2012/03/22 16:35:07
+Case 1753,Take in charge ticket,2012/03/23 08:04:26
+Case 1753,Resolve ticket,2012/03/23 16:11:58
+Case 1753,Closed,2012/05/09 15:40:15
+Case 1762,Assign seriousness,2012/03/20 08:19:39
+Case 1762,Take in charge ticket,2012/03/20 08:19:48
+Case 1762,Resolve ticket,2012/03/22 16:03:47
+Case 1762,Closed,2012/04/20 07:20:18
+Case 1769,Assign seriousness,2012/01/25 10:23:13
+Case 1769,Take in charge ticket,2012/01/25 10:58:06
+Case 1769,Resolve ticket,2012/01/25 14:19:23
+Case 1769,Closed,2012/02/29 10:30:35
+Case 177,Assign seriousness,2012/01/18 08:12:04
+Case 177,Take in charge ticket,2012/01/18 08:21:52
+Case 177,Resolve ticket,2012/01/18 09:42:03
+Case 177,Closed,2012/02/18 08:21:43
+Case 1773,Assign seriousness,2012/01/18 11:26:59
+Case 1773,Take in charge ticket,2012/01/18 11:27:09
+Case 1773,Resolve ticket,2012/01/19 13:21:00
+Case 1773,Closed,2012/03/04 11:30:33
+Case 1778,Assign seriousness,2012/02/14 15:06:51
+Case 1778,Resolve ticket,2012/02/14 15:07:45
+Case 1778,Closed,2012/03/29 14:10:38
+Case 178,Assign seriousness,2012/02/22 14:49:43
+Case 178,Take in charge ticket,2012/02/22 14:49:52
+Case 178,Resolve ticket,2012/02/29 09:36:49
+Case 178,Closed,2012/03/24 14:50:18
+Case 1784,Assign seriousness,2012/03/19 14:57:11
+Case 1784,Take in charge ticket,2012/03/20 13:19:21
+Case 1784,Resolve ticket,2012/03/20 14:44:20
+Case 1784,Resolve ticket,2012/03/20 14:44:21
+Case 1784,Closed,2012/04/19 14:01:20
+Case 179,Assign seriousness,2012/04/11 13:30:07
+Case 179,Take in charge ticket,2012/04/12 09:29:39
+Case 179,Resolve ticket,2012/04/12 12:57:39
+Case 179,Closed,2012/05/12 13:40:20
+Case 1800,Assign seriousness,2012/04/10 15:26:36
+Case 1800,Take in charge ticket,2012/04/10 15:26:52
+Case 1800,Resolve ticket,2012/04/10 15:27:52
+Case 1800,Closed,2012/05/18 15:30:49
+Case 1802,Assign seriousness,2012/02/24 09:12:34
+Case 1802,Take in charge ticket,2012/02/24 09:15:32
+Case 1802,Resolve ticket,2012/02/27 16:27:15
+Case 1802,Closed,2012/04/04 08:20:28
+Case 1803,Assign seriousness,2012/03/26 15:15:23
+Case 1803,Assign seriousness,2012/04/02 15:05:02
+Case 1803,Take in charge ticket,2012/04/05 14:44:29
+Case 1803,Wait,2012/04/05 15:06:07
+Case 1803,Resolve ticket,2012/04/19 07:21:30
+Case 1803,Closed,2012/05/10 07:40:21
+Case 1811,Assign seriousness,2011/12/19 15:02:41
+Case 1811,Take in charge ticket,2011/12/19 15:03:54
+Case 1811,Resolve ticket,2011/12/20 16:19:43
+Case 1811,Closed,2012/01/26 15:10:31
+Case 1824,Assign seriousness,2012/01/09 16:19:22
+Case 1824,Resolve ticket,2012/01/10 08:51:08
+Case 1824,Resolve ticket,2012/01/10 08:51:08
+Case 1824,Closed,2012/03/08 16:20:42
+Case 1825,Assign seriousness,2012/03/05 13:42:13
+Case 1825,Take in charge ticket,2012/03/06 09:26:51
+Case 1825,Wait,2012/03/13 14:52:53
+Case 1825,Resolve ticket,2012/03/28 08:24:35
+Case 1825,Closed,2012/04/12 08:24:49
+Case 1842,Assign seriousness,2012/02/15 11:25:07
+Case 1842,Take in charge ticket,2012/02/15 14:06:49
+Case 1842,Resolve ticket,2012/02/28 16:14:35
+Case 1842,Closed,2012/03/30 10:30:45
+Case 1852,Assign seriousness,2012/03/02 09:27:06
+Case 1852,Take in charge ticket,2012/03/02 09:27:20
+Case 1852,Resolve ticket,2012/03/02 14:48:07
+Case 1852,Closed,2012/04/04 08:30:48
+Case 1857,Assign seriousness,2012/02/21 11:15:35
+Case 1857,Take in charge ticket,2012/02/21 11:15:46
+Case 1857,Resolve ticket,2012/02/29 10:17:51
+Case 1857,Closed,2012/04/20 10:20:23
+Case 1870,Assign seriousness,2012/02/08 15:06:37
+Case 1870,Take in charge ticket,2012/02/08 16:18:27
+Case 1870,Resolve ticket,2012/02/08 17:00:48
+Case 1870,Closed,2012/03/17 15:10:51
+Case 1875,Assign seriousness,2012/03/06 11:27:24
+Case 1875,Take in charge ticket,2012/03/09 11:40:02
+Case 1875,Wait,2012/03/09 11:53:38
+Case 1875,Resolve ticket,2012/03/12 13:31:31
+Case 1875,Closed,2012/04/14 12:10:41
+Case 1876,Assign seriousness,2012/03/08 13:25:05
+Case 1876,Take in charge ticket,2012/03/09 11:29:54
+Case 1876,Resolve ticket,2012/03/19 14:15:08
+Case 1876,Resolve ticket,2012/03/19 14:15:08
+Case 1876,Closed,2012/04/18 13:15:20
+Case 1878,Assign seriousness,2012/03/23 11:03:16
+Case 1878,Take in charge ticket,2012/03/23 11:03:28
+Case 1878,Resolve ticket,2012/03/23 15:41:34
+Case 1878,Closed,2012/04/25 10:10:16
+Case 188,Assign seriousness,2012/01/09 13:58:58
+Case 188,Take in charge ticket,2012/01/09 13:59:09
+Case 188,Resolve ticket,2012/01/10 09:03:01
+Case 188,Closed,2012/02/09 14:00:15
+Case 1890,Assign seriousness,2012/02/21 15:30:55
+Case 1890,Take in charge ticket,2012/02/21 15:31:04
+Case 1890,Resolve ticket,2012/02/21 17:07:56
+Case 1890,Closed,2012/04/07 14:40:30
+Case 1910,Assign seriousness,2012/01/10 08:29:10
+Case 1910,Take in charge ticket,2012/01/10 08:55:26
+Case 1910,Resolve ticket,2012/01/10 08:56:46
+Case 1910,Closed,2012/02/23 08:32:05
+Case 1912,Assign seriousness,2012/04/11 12:48:44
+Case 1912,Take in charge ticket,2012/04/11 12:48:55
+Case 1912,Wait,2012/04/11 15:30:35
+Case 1912,Resolve ticket,2012/04/12 12:25:01
+Case 1912,Closed,2012/05/15 08:40:10
+Case 1914,Assign seriousness,2012/02/23 10:43:05
+Case 1914,Take in charge ticket,2012/02/23 10:43:15
+Case 1914,Resolve ticket,2012/02/23 11:10:58
+Case 1914,Closed,2012/03/29 09:50:45
+Case 1931,Assign seriousness,2012/01/18 09:45:57
+Case 1931,Take in charge ticket,2012/01/18 12:10:53
+Case 1931,Resolve ticket,2012/01/18 13:46:38
+Case 1931,Resolve ticket,2012/01/18 13:46:38
+Case 1931,Closed,2012/02/18 09:51:08
+Case 1938,Assign seriousness,2012/02/24 16:46:31
+Case 1938,Take in charge ticket,2012/03/06 08:43:12
+Case 1938,Resolve ticket,2012/03/06 09:51:05
+Case 1938,Closed,2012/03/28 15:50:31
+Case 194,Assign seriousness,2012/02/08 11:28:03
+Case 194,Take in charge ticket,2012/02/10 10:28:30
+Case 194,Resolve ticket,2012/03/05 11:31:08
+Case 194,Closed,2012/03/20 11:31:31
+Case 1944,Assign seriousness,2012/03/23 09:57:46
+Case 1944,Take in charge ticket,2012/03/23 09:57:57
+Case 1944,Wait,2012/03/26 14:09:16
+Case 1944,Resolve ticket,2012/03/29 06:58:17
+Case 1944,Closed,2012/04/27 10:51:01
+Case 1949,Assign seriousness,2011/12/30 11:22:59
+Case 1949,Resolve ticket,2011/12/30 11:23:29
+Case 1949,Resolve ticket,2011/12/30 11:23:30
+Case 1949,Closed,2012/02/08 11:30:23
+Case 1963,Assign seriousness,2012/02/07 10:39:35
+Case 1963,Take in charge ticket,2012/02/07 10:39:44
+Case 1963,Resolve ticket,2012/02/08 09:04:05
+Case 1963,Closed,2012/03/22 10:40:35
+Case 1965,Insert ticket,2012/01/09 11:15:51
+Case 1965,Assign seriousness,2012/01/09 11:16:03
+Case 1965,Take in charge ticket,2012/01/09 11:16:28
+Case 1965,Resolve ticket,2012/01/18 15:01:51
+Case 1965,Closed,2012/02/22 11:20:38
+Case 1967,Assign seriousness,2012/01/30 11:18:17
+Case 1967,Take in charge ticket,2012/01/30 11:18:26
+Case 1967,Resolve ticket,2012/01/30 12:03:12
+Case 1967,Resolve ticket,2012/01/30 12:03:12
+Case 1967,Closed,2012/03/08 11:20:27
+Case 1990,Assign seriousness,2012/02/24 13:58:55
+Case 1990,Take in charge ticket,2012/03/06 16:54:53
+Case 1990,Resolve ticket,2012/03/08 10:52:40
+Case 1990,Closed,2012/03/28 13:00:51
+Case 1993,Assign seriousness,2012/03/13 10:51:18
+Case 1993,Take in charge ticket,2012/03/19 14:09:45
+Case 1993,Resolve ticket,2012/03/21 11:25:01
+Case 1993,Closed,2012/04/13 10:01:09
+Case 1995,Assign seriousness,2012/04/03 07:50:37
+Case 1995,Take in charge ticket,2012/04/03 12:39:24
+Case 1995,Wait,2012/04/11 11:21:16
+Case 1995,Resolve ticket,2012/05/08 12:53:56
+Case 1995,Closed,2012/05/23 12:54:12
+Case 2,Assign seriousness,2012/04/03 08:55:38
+Case 2,Take in charge ticket,2012/04/03 08:55:53
+Case 2,Resolve ticket,2012/04/05 09:15:52
+Case 2,Closed,2012/05/19 09:00:28
+Case 2023,Assign seriousness,2012/01/20 16:59:27
+Case 2023,Resolve ticket,2012/01/20 17:01:24
+Case 2023,Resolve ticket,2012/01/20 17:01:24
+Case 2023,Closed,2012/02/22 17:00:24
+Case 2025,Assign seriousness,2012/01/12 08:34:21
+Case 2025,Take in charge ticket,2012/01/12 08:45:12
+Case 2025,Resolve ticket,2012/01/16 13:11:51
+Case 2025,Resolve ticket,2012/01/16 13:11:51
+Case 2025,Closed,2012/03/11 08:41:08
+Case 2026,Assign seriousness,2012/01/10 11:15:26
+Case 2026,Take in charge ticket,2012/01/10 11:47:30
+Case 2026,Resolve ticket,2012/01/16 13:09:31
+Case 2026,Closed,2012/02/23 11:22:01
+Case 2027,Assign seriousness,2012/01/26 13:21:51
+Case 2027,Take in charge ticket,2012/01/27 10:14:35
+Case 2027,Wait,2012/02/06 14:00:19
+Case 2027,Resolve ticket,2012/02/14 11:20:11
+Case 2027,Closed,2012/03/07 11:00:31
+Case 2030,Assign seriousness,2012/03/22 11:22:09
+Case 2030,Take in charge ticket,2012/03/22 13:09:19
+Case 2030,Resolve ticket,2012/03/23 10:04:16
+Case 2030,Closed,2012/05/09 10:30:23
+Case 2032,Assign seriousness,2012/03/20 16:01:36
+Case 2032,Take in charge ticket,2012/03/22 13:21:22
+Case 2032,Resolve ticket,2012/03/29 07:51:40
+Case 2032,Closed,2012/04/20 15:10:24
+Case 2034,Assign seriousness,2012/01/23 10:22:19
+Case 2034,Take in charge ticket,2012/01/23 10:22:38
+Case 2034,Resolve ticket,2012/01/25 10:52:04
+Case 2034,Closed,2012/03/01 10:30:51
+Case 2039,Assign seriousness,2012/03/19 15:21:39
+Case 2039,Take in charge ticket,2012/03/20 13:47:35
+Case 2039,Resolve ticket,2012/04/06 12:13:29
+Case 2039,Closed,2012/04/21 12:13:44
+Case 2043,Assign seriousness,2012/01/10 09:43:19
+Case 2043,Take in charge ticket,2012/01/10 09:43:37
+Case 2043,Resolve ticket,2012/01/13 11:26:01
+Case 2043,Closed,2012/02/17 09:50:25
+Case 2044,Assign seriousness,2012/02/20 16:56:42
+Case 2044,Resolve ticket,2012/02/20 16:56:51
+Case 2044,Closed,2012/03/22 17:00:20
+Case 2046,Assign seriousness,2012/01/03 11:08:05
+Case 2046,Take in charge ticket,2012/01/03 11:08:19
+Case 2046,Resolve ticket,2012/01/05 15:51:50
+Case 2046,Closed,2012/02/03 11:10:40
+Case 2049,Assign seriousness,2012/01/05 11:17:06
+Case 2049,Resolve ticket,2012/01/05 15:55:08
+Case 2049,Closed,2012/02/18 11:21:09
+Case 2060,Assign seriousness,2012/02/16 16:21:10
+Case 2060,Take in charge ticket,2012/02/17 09:23:20
+Case 2060,Resolve ticket,2012/02/17 09:36:22
+Case 2060,Closed,2012/03/20 16:30:30
+Case 2063,Assign seriousness,2012/01/12 11:53:59
+Case 2063,Take in charge ticket,2012/01/17 11:59:06
+Case 2063,Resolve ticket,2012/01/17 12:01:08
+Case 2063,Closed,2012/02/14 12:00:18
+Case 2070,Assign seriousness,2012/03/07 13:41:22
+Case 2070,Take in charge ticket,2012/03/20 10:08:37
+Case 2070,Wait,2012/03/20 10:10:47
+Case 2070,Resolve ticket,2012/04/05 14:51:58
+Case 2070,Closed,2012/04/20 14:52:13
+Case 2079,Assign seriousness,2011/12/23 08:04:03
+Case 2079,Wait,2012/01/05 15:03:06
+Case 2079,Wait,2012/01/05 15:03:07
+Case 2079,Resolve ticket,2012/01/05 15:09:49
+Case 2079,Closed,2012/02/09 08:10:45
+Case 2085,Assign seriousness,2012/04/10 09:14:39
+Case 2085,Take in charge ticket,2012/04/10 13:57:12
+Case 2085,Resolve ticket,2012/04/10 16:00:15
+Case 2085,Resolve ticket,2012/04/10 16:00:16
+Case 2085,Closed,2012/05/11 09:22:10
+Case 2087,Assign seriousness,2011/12/21 11:24:41
+Case 2087,Take in charge ticket,2012/01/03 08:59:16
+Case 2087,Wait,2012/01/04 09:11:50
+Case 2087,Take in charge ticket,2012/01/04 11:15:52
+Case 2087,Wait,2012/01/13 10:13:12
+Case 2087,Resolve ticket,2012/01/16 14:49:26
+Case 2087,Closed,2012/01/31 14:49:44
+Case 209,Assign seriousness,2012/01/11 10:39:43
+Case 209,Take in charge ticket,2012/01/11 10:40:06
+Case 209,Resolve ticket,2012/01/11 10:41:58
+Case 209,Closed,2012/02/17 10:40:45
+Case 2090,Take in charge ticket,2012/02/03 10:50:21
+Case 2090,Wait,2012/02/03 17:05:52
+Case 2090,Resolve ticket,2012/03/05 09:18:46
+Case 2090,Closed,2012/03/27 08:22:24
+Case 2100,Assign seriousness,2012/02/28 16:46:09
+Case 2100,Take in charge ticket,2012/02/29 08:23:14
+Case 2100,Resolve ticket,2012/02/29 10:41:46
+Case 2100,Closed,2012/03/30 15:52:44
+Case 2116,Assign seriousness,2012/01/11 10:54:53
+Case 2116,Take in charge ticket,2012/01/11 10:55:04
+Case 2116,Resolve ticket,2012/01/11 14:10:33
+Case 2116,Closed,2012/02/11 11:00:24
+Case 2130,Assign seriousness,2012/01/23 15:26:10
+Case 2130,Take in charge ticket,2012/01/23 15:27:05
+Case 2130,Resolve ticket,2012/01/23 16:08:37
+Case 2130,Closed,2012/03/07 15:30:33
+Case 2140,Assign seriousness,2012/02/03 09:48:39
+Case 2140,Take in charge ticket,2012/02/03 09:48:58
+Case 2140,Resolve ticket,2012/02/06 08:57:43
+Case 2140,Closed,2012/03/14 09:51:44
+Case 2148,Assign seriousness,2012/01/19 16:49:48
+Case 2148,Take in charge ticket,2012/01/19 16:50:10
+Case 2148,Resolve ticket,2012/01/23 16:42:37
+Case 2148,Resolve ticket,2012/01/23 16:42:38
+Case 2148,Closed,2012/03/07 16:50:37
+Case 2150,Assign seriousness,2012/02/22 13:04:23
+Case 2150,Take in charge ticket,2012/02/23 10:46:01
+Case 2150,Resolve ticket,2012/03/01 11:33:30
+Case 2150,Closed,2012/03/24 13:10:27
+Case 2164,Assign seriousness,2012/01/23 16:00:52
+Case 2164,Take in charge ticket,2012/01/23 16:48:20
+Case 2164,Resolve ticket,2012/01/25 14:44:46
+Case 2164,Closed,2012/02/23 16:10:42
+Case 2170,Assign seriousness,2011/12/27 10:18:12
+Case 2170,Take in charge ticket,2012/01/03 08:59:46
+Case 2170,Wait,2012/01/05 14:41:40
+Case 2170,Resolve ticket,2012/01/09 11:15:45
+Case 2170,Closed,2012/01/28 16:50:15
+Case 2200,Assign seriousness,2012/01/11 10:21:48
+Case 2200,Take in charge ticket,2012/01/11 10:22:06
+Case 2200,Resolve ticket,2012/01/16 14:23:48
+Case 2200,Closed,2012/03/10 10:30:39
+Case 222,Assign seriousness,2012/02/01 11:34:03
+Case 222,Resolve ticket,2012/02/01 11:35:16
+Case 222,Closed,2012/03/09 11:40:26
+Case 2224,Assign seriousness,2012/02/13 08:38:59
+Case 2224,Take in charge ticket,2012/02/13 08:39:33
+Case 2224,Resolve ticket,2012/02/13 14:10:02
+Case 2224,Closed,2012/03/17 08:40:33
+Case 2226,Assign seriousness,2012/04/03 14:48:43
+Case 2226,Take in charge ticket,2012/04/04 14:04:21
+Case 2226,Resolve ticket,2012/04/05 10:48:18
+Case 2226,Closed,2012/05/04 14:50:26
+Case 223,Assign seriousness,2012/03/15 13:28:02
+Case 223,Take in charge ticket,2012/03/16 11:30:26
+Case 223,Resolve ticket,2012/03/16 15:29:01
+Case 223,Resolve ticket,2012/03/16 15:29:02
+Case 223,Closed,2012/04/19 12:31:21
+Case 2234,Assign seriousness,2011/12/30 08:56:55
+Case 2234,Take in charge ticket,2012/01/02 08:41:05
+Case 2234,Resolve ticket,2012/01/02 09:28:53
+Case 2234,Closed,2012/02/05 09:00:37
+Case 2244,Assign seriousness,2012/03/12 10:47:50
+Case 2244,Take in charge ticket,2012/04/05 14:44:07
+Case 2244,Wait,2012/04/05 15:16:21
+Case 2244,Resolve ticket,2012/04/19 07:23:32
+Case 2244,Closed,2012/05/04 07:23:43
+Case 2247,Assign seriousness,2012/02/08 10:57:39
+Case 2247,Take in charge ticket,2012/02/08 10:58:09
+Case 2247,Resolve ticket,2012/02/08 13:15:32
+Case 2247,Closed,2012/03/14 11:00:34
+Case 2248,Assign seriousness,2011/12/21 16:16:13
+Case 2248,Take in charge ticket,2011/12/27 09:04:07
+Case 2248,Resolve ticket,2011/12/28 09:24:38
+Case 2248,Resolve ticket,2011/12/28 09:24:38
+Case 2248,Closed,2012/01/21 16:20:22
+Case 2252,Assign seriousness,2012/01/23 10:59:21
+Case 2252,Take in charge ticket,2012/01/23 13:10:18
+Case 2252,Resolve ticket,2012/01/23 13:43:10
+Case 2252,Closed,2012/03/07 11:00:35
+Case 2255,Assign seriousness,2012/01/26 16:27:22
+Case 2255,Take in charge ticket,2012/01/27 08:03:08
+Case 2255,Resolve ticket,2012/01/31 13:39:20
+Case 2255,Closed,2012/03/10 16:31:10
+Case 2261,Assign seriousness,2012/01/27 15:25:30
+Case 2261,Take in charge ticket,2012/01/27 15:25:46
+Case 2261,Resolve ticket,2012/01/27 15:35:33
+Case 2261,Closed,2012/03/15 15:30:32
+Case 2262,Assign seriousness,2012/01/19 11:18:45
+Case 2262,Take in charge ticket,2012/01/19 11:19:00
+Case 2262,Resolve ticket,2012/01/19 11:30:10
+Case 2262,Closed,2012/02/25 11:20:32
+Case 2277,Assign seriousness,2012/02/13 09:45:02
+Case 2277,Take in charge ticket,2012/02/13 09:45:33
+Case 2277,Resolve ticket,2012/02/13 10:23:54
+Case 2277,Closed,2012/03/21 09:50:35
+Case 2286,Assign seriousness,2012/01/18 08:08:50
+Case 2286,Take in charge ticket,2012/01/18 13:32:50
+Case 2286,Resolve ticket,2012/01/18 15:29:09
+Case 2286,Closed,2012/03/02 08:12:49
+Case 2303,Assign seriousness,2012/02/01 11:36:49
+Case 2303,Take in charge ticket,2012/02/08 14:22:58
+Case 2303,Resolve ticket,2012/02/08 17:02:55
+Case 2303,Closed,2012/03/10 11:40:29
+Case 2317,Assign seriousness,2012/02/22 09:16:18
+Case 2317,Take in charge ticket,2012/02/23 15:08:03
+Case 2317,Resolve ticket,2012/02/27 10:58:50
+Case 2317,Closed,2012/03/24 09:20:42
+Case 2323,Assign seriousness,2012/02/06 16:00:58
+Case 2323,Take in charge ticket,2012/02/06 16:01:09
+Case 2323,Resolve ticket,2012/02/06 16:42:18
+Case 2323,Closed,2012/03/08 16:10:24
+Case 2326,Assign seriousness,2012/03/28 15:37:11
+Case 2326,Take in charge ticket,2012/03/28 15:40:35
+Case 2326,Wait,2012/04/03 10:54:57
+Case 2326,Resolve ticket,2012/04/19 07:46:35
+Case 2326,Closed,2012/05/08 12:30:23
+Case 2344,Assign seriousness,2012/03/05 10:08:35
+Case 2344,Take in charge ticket,2012/03/05 13:31:38
+Case 2344,Resolve ticket,2012/03/05 15:33:16
+Case 2344,Closed,2012/04/05 09:10:22
+Case 2350,Assign seriousness,2012/02/03 08:24:42
+Case 2350,Take in charge ticket,2012/02/07 15:22:09
+Case 2350,Resolve ticket,2012/02/07 15:28:54
+Case 2350,Take in charge ticket,2012/02/08 08:10:19
+Case 2350,Resolve ticket,2012/02/20 10:40:00
+Case 2350,Closed,2012/03/07 08:30:21
+Case 2357,Assign seriousness,2012/03/14 15:47:10
+Case 2357,Resolve ticket,2012/03/14 16:36:06
+Case 2357,Closed,2012/04/27 14:50:21
+Case 2358,Assign seriousness,2012/02/24 13:54:58
+Case 2358,Take in charge ticket,2012/03/09 11:56:52
+Case 2358,Resolve ticket,2012/03/09 14:49:40
+Case 2358,Closed,2012/03/28 13:00:21
+Case 2365,Assign seriousness,2012/02/27 08:20:34
+Case 2365,Take in charge ticket,2012/02/27 08:20:52
+Case 2365,Resolve ticket,2012/02/29 11:15:00
+Case 2365,Closed,2012/04/05 07:30:27
+Case 2382,Assign seriousness,2012/02/09 16:39:09
+Case 2382,Take in charge ticket,2012/02/09 16:39:28
+Case 2382,Create SW anomaly,2012/02/14 12:01:09
+Case 2382,Resolve ticket,2012/03/06 10:38:40
+Case 2382,Closed,2012/03/21 10:38:54
+Case 2394,Assign seriousness,2012/01/19 16:15:37
+Case 2394,Take in charge ticket,2012/01/19 17:04:27
+Case 2394,Resolve ticket,2012/02/10 17:17:38
+Case 2394,Closed,2012/02/25 17:17:49
+Case 2397,Assign seriousness,2012/02/20 09:28:55
+Case 2397,Take in charge ticket,2012/02/20 09:29:03
+Case 2397,Resolve ticket,2012/02/20 11:45:35
+Case 2397,Closed,2012/03/22 09:30:39
+Case 2409,Assign seriousness,2012/03/19 15:20:19
+Case 2409,Resolve ticket,2012/03/19 15:53:17
+Case 2409,Resolve ticket,2012/03/19 15:53:18
+Case 2409,Closed,2012/04/19 14:30:30
+Case 2416,Assign seriousness,2012/03/27 07:41:46
+Case 2416,Take in charge ticket,2012/03/27 07:42:00
+Case 2416,Resolve ticket,2012/03/27 07:44:37
+Case 2416,Closed,2012/05/04 07:50:29
+Case 2421,Assign seriousness,2012/04/11 12:30:26
+Case 2421,Take in charge ticket,2012/04/11 12:30:34
+Case 2421,Resolve ticket,2012/04/11 12:47:32
+Case 2421,Closed,2012/05/25 12:40:34
+Case 2429,Assign seriousness,2012/02/10 09:55:04
+Case 2429,Take in charge ticket,2012/02/10 14:18:02
+Case 2429,Wait,2012/02/13 10:11:51
+Case 2429,Resolve ticket,2012/02/16 09:27:08
+Case 2429,Resolve ticket,2012/02/16 09:27:16
+Case 2429,Closed,2012/03/17 09:27:38
+Case 2449,Assign seriousness,2012/01/13 08:29:50
+Case 2449,Take in charge ticket,2012/01/16 13:51:44
+Case 2449,Resolve ticket,2012/01/16 15:02:54
+Case 2449,Closed,2012/02/26 08:31:05
+Case 2461,Assign seriousness,2012/01/30 15:40:16
+Case 2461,Take in charge ticket,2012/01/31 08:44:19
+Case 2461,Resolve ticket,2012/01/31 08:52:07
+Case 2461,Closed,2012/03/01 15:50:12
+Case 2472,Assign seriousness,2012/03/05 13:50:30
+Case 2472,Take in charge ticket,2012/03/05 14:58:41
+Case 2472,Resolve ticket,2012/03/05 15:30:54
+Case 2472,Closed,2012/04/20 13:00:58
+Case 2477,Assign seriousness,2012/01/11 11:46:46
+Case 2477,Take in charge ticket,2012/01/16 13:31:58
+Case 2477,Resolve ticket,2012/01/18 11:32:18
+Case 2477,Closed,2012/02/11 11:50:26
+Case 2482,Assign seriousness,2012/03/20 14:22:08
+Case 2482,Take in charge ticket,2012/03/20 14:22:18
+Case 2482,Resolve ticket,2012/03/21 10:31:49
+Case 2482,Closed,2012/05/05 13:30:34
+Case 2485,Assign seriousness,2012/01/12 08:31:38
+Case 2485,Take in charge ticket,2012/01/13 10:17:00
+Case 2485,Resolve ticket,2012/01/26 09:41:03
+Case 2485,Closed,2012/02/14 08:40:19
+Case 2515,Assign seriousness,2011/12/27 11:01:06
+Case 2515,Take in charge ticket,2011/12/27 11:02:05
+Case 2515,Resolve ticket,2011/12/27 15:28:22
+Case 2515,Closed,2012/01/29 11:10:30
+Case 2516,Assign seriousness,2012/01/25 15:31:37
+Case 2516,Take in charge ticket,2012/01/25 15:31:56
+Case 2516,Resolve ticket,2012/01/25 15:44:25
+Case 2516,Closed,2012/02/25 15:40:30
+Case 2518,Assign seriousness,2012/01/27 15:16:04
+Case 2518,Take in charge ticket,2012/02/07 11:54:35
+Case 2518,Wait,2012/02/10 15:53:23
+Case 2518,Resolve ticket,2012/02/14 15:08:50
+Case 2518,Closed,2012/03/02 14:30:25
+Case 2525,Assign seriousness,2011/12/27 15:54:21
+Case 2525,Assign seriousness,2011/12/27 15:54:39
+Case 2525,Assign seriousness,2011/12/27 15:54:40
+Case 2525,Resolve ticket,2011/12/28 08:02:40
+Case 2525,Closed,2012/02/09 16:00:41
+Case 2528,Assign seriousness,2012/01/16 08:42:54
+Case 2528,Take in charge ticket,2012/01/16 09:02:23
+Case 2528,Resolve ticket,2012/01/16 11:35:37
+Case 2528,Closed,2012/02/16 08:50:25
+Case 2535,Assign seriousness,2012/02/14 10:07:04
+Case 2535,Take in charge ticket,2012/02/14 10:25:44
+Case 2535,Resolve ticket,2012/02/14 10:29:54
+Case 2535,Closed,2012/03/29 09:10:25
+Case 2538,Assign seriousness,2012/01/16 10:55:42
+Case 2538,Take in charge ticket,2012/01/23 11:43:23
+Case 2538,Take in charge ticket,2012/02/09 15:34:59
+Case 2538,Wait,2012/02/09 15:35:56
+Case 2538,Resolve ticket,2012/02/15 09:34:06
+Case 2538,Closed,2012/03/01 09:34:22
+Case 2542,Assign seriousness,2012/01/18 10:12:13
+Case 2542,Take in charge ticket,2012/01/18 10:12:39
+Case 2542,Resolve ticket,2012/01/20 15:39:29
+Case 2542,Closed,2012/02/18 10:20:33
+Case 2546,Assign seriousness,2012/02/27 13:17:56
+Case 2546,Take in charge ticket,2012/02/28 09:53:25
+Case 2546,Resolve ticket,2012/02/28 13:58:56
+Case 2546,Closed,2012/03/29 12:20:27
+Case 255,Assign seriousness,2012/03/06 08:24:19
+Case 255,Take in charge ticket,2012/03/06 13:39:56
+Case 255,Resolve ticket,2012/03/06 14:07:30
+Case 255,Closed,2012/04/13 07:30:29
+Case 2551,Assign seriousness,2012/03/27 15:33:09
+Case 2551,Take in charge ticket,2012/03/28 13:51:27
+Case 2551,Resolve ticket,2012/03/30 13:59:59
+Case 2551,Closed,2012/04/27 15:40:22
+Case 2552,Assign seriousness,2011/12/29 16:54:08
+Case 2552,Take in charge ticket,2012/01/02 08:49:53
+Case 2552,Resolve ticket,2012/01/02 09:20:51
+Case 2552,Closed,2012/02/04 17:07:54
+Case 2554,Assign seriousness,2012/02/02 14:28:02
+Case 2554,Take in charge ticket,2012/02/02 14:28:13
+Case 2554,Resolve ticket,2012/02/06 14:53:02
+Case 2554,Closed,2012/03/06 14:30:25
+Case 2556,Assign seriousness,2012/02/01 11:57:24
+Case 2556,Take in charge ticket,2012/02/01 11:57:31
+Case 2556,Resolve ticket,2012/02/01 13:22:24
+Case 2556,Closed,2012/03/09 12:00:56
+Case 2566,Assign seriousness,2012/03/26 10:38:38
+Case 2566,Take in charge ticket,2012/03/26 10:38:54
+Case 2566,Resolve ticket,2012/03/27 08:01:34
+Case 2566,Closed,2012/04/26 10:40:17
+Case 2568,Assign seriousness,2012/02/08 08:53:51
+Case 2568,Take in charge ticket,2012/02/08 08:54:11
+Case 2568,Resolve ticket,2012/02/08 08:54:25
+Case 2568,Closed,2012/03/11 09:00:40
+Case 2580,Assign seriousness,2012/01/16 14:41:48
+Case 2580,Take in charge ticket,2012/01/16 14:56:25
+Case 2580,Resolve ticket,2012/01/16 15:11:13
+Case 2580,Closed,2012/03/15 14:50:37
+Case 2595,Assign seriousness,2012/03/20 11:11:45
+Case 2595,Take in charge ticket,2012/03/20 11:45:42
+Case 2595,Resolve ticket,2012/03/21 11:55:14
+Case 2595,Closed,2012/05/12 10:21:21
+Case 2602,Assign seriousness,2012/01/31 15:04:47
+Case 2602,Take in charge ticket,2012/01/31 15:04:57
+Case 2602,Resolve ticket,2012/01/31 17:01:00
+Case 2602,Closed,2012/03/02 15:10:36
+Case 2606,Assign seriousness,2012/03/15 16:00:08
+Case 2606,Take in charge ticket,2012/03/20 11:39:31
+Case 2606,Wait,2012/03/22 12:19:24
+Case 2606,Resolve ticket,2012/04/06 10:29:16
+Case 2606,Closed,2012/04/21 10:29:33
+Case 2612,Assign seriousness,2012/04/12 07:51:53
+Case 2612,Take in charge ticket,2012/04/13 13:22:17
+Case 2612,Wait,2012/04/16 08:16:01
+Case 2612,Resolve ticket,2012/04/24 12:36:37
+Case 2612,Closed,2012/05/23 12:22:06
+Case 2615,Assign seriousness,2012/03/13 16:44:46
+Case 2615,Take in charge ticket,2012/03/14 09:45:08
+Case 2615,Resolve ticket,2012/03/22 10:24:03
+Case 2615,Closed,2012/04/13 15:50:12
+Case 2626,Assign seriousness,2012/01/18 10:11:05
+Case 2626,Take in charge ticket,2012/01/18 14:35:00
+Case 2626,Resolve ticket,2012/01/19 10:05:08
+Case 2626,Closed,2012/03/04 10:20:56
+Case 2627,Assign seriousness,2011/12/20 14:16:22
+Case 2627,Take in charge ticket,2011/12/21 07:49:32
+Case 2627,Resolve ticket,2011/12/21 08:57:09
+Case 2627,Closed,2012/02/02 14:20:25
+Case 263,Assign seriousness,2011/12/28 16:51:52
+Case 263,Take in charge ticket,2011/12/29 10:16:43
+Case 263,Resolve ticket,2011/12/30 08:01:38
+Case 263,Closed,2012/01/28 17:01:45
+Case 2630,Assign seriousness,2012/04/10 09:15:05
+Case 2630,Take in charge ticket,2012/04/10 09:15:47
+Case 2630,Resolve ticket,2012/04/11 10:39:36
+Case 2630,Closed,2012/05/17 09:20:43
+Case 2637,Assign seriousness,2012/03/13 07:59:04
+Case 2637,Take in charge ticket,2012/03/13 07:59:32
+Case 2637,Resolve ticket,2012/03/13 11:24:45
+Case 2637,Closed,2012/04/25 16:00:33
+Case 2642,Assign seriousness,2012/02/20 10:03:08
+Case 2642,Resolve ticket,2012/02/20 10:32:31
+Case 2642,Closed,2012/03/22 10:10:55
+Case 2644,Take in charge ticket,2011/12/29 13:37:05
+Case 2644,Resolve ticket,2011/12/29 14:45:50
+Case 2644,Closed,2012/01/31 13:40:29
+Case 2654,Assign seriousness,2011/12/21 11:06:07
+Case 2654,Take in charge ticket,2011/12/21 11:06:16
+Case 2654,Resolve ticket,2011/12/21 16:31:18
+Case 2654,Closed,2012/01/27 11:11:13
+Case 2663,Assign seriousness,2012/01/20 09:24:58
+Case 2663,Take in charge ticket,2012/01/20 09:25:10
+Case 2663,Resolve ticket,2012/01/20 09:47:45
+Case 2663,Closed,2012/02/24 09:30:28
+Case 2669,Assign seriousness,2012/02/03 10:54:21
+Case 2669,Take in charge ticket,2012/02/10 12:06:35
+Case 2669,Resolve ticket,2012/02/10 17:56:52
+Case 2669,Take in charge ticket,2012/02/17 16:44:34
+Case 2669,Resolve ticket,2012/02/24 08:03:54
+Case 2669,Resolve ticket,2012/02/24 08:03:55
+Case 2669,Closed,2012/03/10 08:04:34
+Case 2672,Assign seriousness,2012/01/26 16:36:18
+Case 2672,Take in charge ticket,2012/01/26 17:13:35
+Case 2672,Resolve ticket,2012/01/27 13:15:28
+Case 2672,Closed,2012/03/10 16:40:40
+Case 2678,Assign seriousness,2011/12/22 10:17:15
+Case 2678,Take in charge ticket,2011/12/22 10:17:25
+Case 2678,Wait,2011/12/22 16:53:16
+Case 2678,Take in charge ticket,2011/12/27 08:17:04
+Case 2678,Resolve ticket,2011/12/28 11:36:34
+Case 2678,Closed,2012/02/10 10:40:17
+Case 2687,Assign seriousness,2012/03/19 15:35:18
+Case 2687,Take in charge ticket,2012/03/19 15:38:16
+Case 2687,Resolve ticket,2012/03/20 09:52:51
+Case 2687,Closed,2012/04/26 14:40:26
+Case 2690,Assign seriousness,2012/04/10 16:03:47
+Case 2690,Take in charge ticket,2012/04/11 07:03:55
+Case 2690,Resolve ticket,2012/05/02 07:50:12
+Case 2690,Closed,2012/05/17 07:50:34
+Case 2697,Assign seriousness,2012/03/01 16:21:45
+Case 2697,Take in charge ticket,2012/03/06 15:41:44
+Case 2697,Resolve ticket,2012/03/07 09:14:00
+Case 2697,Closed,2012/04/03 15:30:17
+Case 2711,Assign seriousness,2012/04/03 09:39:47
+Case 2711,Take in charge ticket,2012/04/03 16:05:33
+Case 2711,Resolve ticket,2012/04/10 10:25:09
+Case 2711,Closed,2012/05/04 09:40:19
+Case 272,Assign seriousness,2012/01/25 07:58:57
+Case 272,Take in charge ticket,2012/01/25 08:39:02
+Case 272,Wait,2012/02/01 11:28:32
+Case 272,Resolve ticket,2012/02/28 17:21:41
+Case 272,Closed,2012/03/14 17:21:55
+Case 2727,Assign seriousness,2012/03/20 15:58:26
+Case 2727,Take in charge ticket,2012/03/21 08:35:08
+Case 2727,Wait,2012/03/23 09:44:30
+Case 2727,Take in charge ticket,2012/04/20 14:03:31
+Case 2727,Resolve ticket,2012/04/20 14:03:39
+Case 2727,Closed,2012/05/05 14:04:06
+Case 2740,Assign seriousness,2012/01/05 11:12:59
+Case 2740,Resolve ticket,2012/01/05 11:13:25
+Case 2740,Closed,2012/02/22 11:20:48
+Case 2750,Assign seriousness,2012/03/22 08:44:39
+Case 2750,Take in charge ticket,2012/03/22 08:55:53
+Case 2750,Resolve ticket,2012/03/22 09:53:44
+Case 2750,Closed,2012/04/29 07:50:31
+Case 2753,Take in charge ticket,2012/01/03 10:28:28
+Case 2753,Wait,2012/01/03 10:36:13
+Case 2753,Resolve ticket,2012/01/13 09:25:14
+Case 2753,Closed,2012/02/16 11:50:35
+Case 2757,Assign seriousness,2012/02/24 14:02:00
+Case 2757,Take in charge ticket,2012/03/06 16:54:36
+Case 2757,Resolve ticket,2012/03/08 10:51:17
+Case 2757,Closed,2012/04/23 13:17:31
+Case 2760,Assign seriousness,2011/12/22 08:46:29
+Case 2760,Resolve ticket,2011/12/22 11:00:05
+Case 2760,Closed,2012/01/24 08:50:22
+Case 277,Assign seriousness,2012/03/13 09:47:21
+Case 277,Take in charge ticket,2012/03/13 09:48:04
+Case 277,Resolve ticket,2012/03/14 14:35:22
+Case 277,Closed,2012/04/20 08:50:58
+Case 2787,Assign seriousness,2012/03/13 11:08:36
+Case 2787,Take in charge ticket,2012/03/13 11:08:47
+Case 2787,Resolve ticket,2012/03/13 14:16:59
+Case 2787,Closed,2012/04/13 10:11:26
+Case 2795,Assign seriousness,2012/03/20 14:30:38
+Case 2795,Take in charge ticket,2012/03/21 16:42:57
+Case 2795,Wait,2012/03/21 16:48:21
+Case 2795,Resolve ticket,2012/04/06 14:41:47
+Case 2795,Closed,2012/04/21 14:42:04
+Case 2796,Assign seriousness,2012/01/18 14:52:06
+Case 2796,Take in charge ticket,2012/01/18 14:56:56
+Case 2796,Resolve ticket,2012/01/25 10:56:57
+Case 2796,Closed,2012/03/02 15:00:48
+Case 2799,Assign seriousness,2012/02/15 11:19:41
+Case 2799,Take in charge ticket,2012/02/29 10:00:04
+Case 2799,Resolve ticket,2012/02/29 10:21:35
+Case 2799,Closed,2012/03/17 11:20:29
+Case 2800,Assign seriousness,2012/03/02 13:35:43
+Case 2800,Take in charge ticket,2012/03/02 13:39:14
+Case 2800,Resolve ticket,2012/03/05 09:24:21
+Case 2800,Closed,2012/04/26 12:40:42
+Case 2821,Assign seriousness,2012/01/30 13:19:30
+Case 2821,Take in charge ticket,2012/01/31 08:32:32
+Case 2821,Resolve ticket,2012/02/07 09:31:42
+Case 2821,Closed,2012/03/01 13:20:26
+Case 2823,Assign seriousness,2012/01/12 08:42:47
+Case 2823,Take in charge ticket,2012/01/16 16:54:04
+Case 2823,Resolve ticket,2012/01/17 14:28:11
+Case 2823,Closed,2012/02/14 08:50:19
+Case 2830,Assign seriousness,2012/03/12 10:57:31
+Case 2830,Take in charge ticket,2012/03/12 11:23:53
+Case 2830,Resolve ticket,2012/03/14 10:49:24
+Case 2830,Closed,2012/04/12 10:00:21
+Case 2831,Assign seriousness,2012/02/28 16:03:49
+Case 2831,Take in charge ticket,2012/02/28 17:16:36
+Case 2831,Resolve ticket,2012/02/28 17:20:30
+Case 2831,Closed,2012/04/27 15:10:31
+Case 2833,Assign seriousness,2012/04/02 12:49:53
+Case 2833,Take in charge ticket,2012/04/02 14:32:57
+Case 2833,Wait,2012/04/04 12:44:51
+Case 2833,Resolve ticket,2012/04/13 13:38:24
+Case 2833,Closed,2012/05/04 13:40:31
+Case 2836,Assign seriousness,2012/02/09 13:16:45
+Case 2836,Take in charge ticket,2012/02/09 13:16:53
+Case 2836,Resolve ticket,2012/02/09 13:28:05
+Case 2836,Closed,2012/03/28 12:20:45
+Case 2841,Assign seriousness,2012/02/24 14:03:12
+Case 2841,Take in charge ticket,2012/03/05 08:32:34
+Case 2841,Resolve ticket,2012/03/08 14:35:44
+Case 2841,Resolve ticket,2012/03/08 14:35:44
+Case 2841,Closed,2012/03/28 13:10:41
+Case 2852,Assign seriousness,2011/12/27 16:58:57
+Case 2852,Resolve ticket,2011/12/29 16:13:14
+Case 2852,Closed,2012/01/27 17:00:47
+Case 2870,Assign seriousness,2012/01/20 14:06:27
+Case 2870,Take in charge ticket,2012/01/20 14:07:49
+Case 2870,Resolve ticket,2012/01/27 12:16:34
+Case 2870,Closed,2012/02/22 14:12:11
+Case 2885,Assign seriousness,2012/04/02 12:45:00
+Case 2885,Take in charge ticket,2012/04/02 13:26:49
+Case 2885,Resolve ticket,2012/04/10 13:58:46
+Case 2885,Closed,2012/05/03 12:50:44
+Case 290,Assign seriousness,2012/02/14 11:05:29
+Case 290,Wait,2012/02/15 09:20:13
+Case 290,Resolve ticket,2012/02/29 15:31:24
+Case 290,Resolve ticket,2012/02/29 15:31:28
+Case 290,Closed,2012/04/04 07:30:48
+Case 2904,Assign seriousness,2012/03/30 06:41:55
+Case 2904,Take in charge ticket,2012/03/30 06:43:26
+Case 2904,Wait,2012/03/30 06:49:33
+Case 2904,Resolve ticket,2012/04/16 08:22:20
+Case 2904,Resolve ticket,2012/04/16 08:22:24
+Case 2904,Closed,2012/05/16 08:22:42
+Case 2911,Assign seriousness,2012/01/17 09:06:22
+Case 2911,Take in charge ticket,2012/01/17 14:12:18
+Case 2911,Resolve ticket,2012/01/26 10:58:28
+Case 2911,Closed,2012/02/17 09:10:35
+Case 2913,Assign seriousness,2012/03/20 16:22:54
+Case 2913,Take in charge ticket,2012/03/20 16:23:03
+Case 2913,Resolve ticket,2012/03/22 11:25:18
+Case 2913,Closed,2012/04/26 15:30:33
+Case 2917,Assign seriousness,2012/02/07 16:27:25
+Case 2917,Take in charge ticket,2012/02/07 16:27:39
+Case 2917,Resolve ticket,2012/02/09 16:46:15
+Case 2917,Resolve ticket,2012/02/09 16:46:16
+Case 2917,Closed,2012/03/09 16:33:47
+Case 2919,Assign seriousness,2012/03/01 15:25:44
+Case 2919,Resolve ticket,2012/03/01 15:26:12
+Case 2919,Closed,2012/04/03 14:30:27
+Case 2921,Assign seriousness,2011/12/22 08:28:42
+Case 2921,Take in charge ticket,2011/12/22 14:32:46
+Case 2921,Wait,2011/12/22 15:37:55
+Case 2921,Take in charge ticket,2011/12/29 14:18:29
+Case 2921,Resolve ticket,2011/12/30 14:20:10
+Case 2921,Resolve ticket,2011/12/30 14:20:12
+Case 2921,Closed,2012/01/28 16:10:56
+Case 2929,Assign seriousness,2012/01/16 11:47:05
+Case 2929,Take in charge ticket,2012/01/18 16:03:42
+Case 2929,Resolve ticket,2012/01/23 11:31:52
+Case 2929,Closed,2012/02/23 11:50:28
+Case 295,Assign seriousness,2012/02/15 09:20:54
+Case 295,Take in charge ticket,2012/02/15 09:30:22
+Case 295,Resolve ticket,2012/02/15 13:06:58
+Case 295,Resolve ticket,2012/02/15 13:06:59
+Case 295,Closed,2012/03/30 08:31:03
+Case 2958,Assign seriousness,2012/04/11 09:29:01
+Case 2958,Take in charge ticket,2012/04/11 12:23:16
+Case 2958,Resolve ticket,2012/04/16 12:39:10
+Case 2958,Closed,2012/05/25 09:30:29
+Case 2960,Assign seriousness,2012/03/29 09:29:38
+Case 2960,Take in charge ticket,2012/03/29 09:29:47
+Case 2960,Resolve ticket,2012/03/30 08:00:58
+Case 2960,Closed,2012/05/16 09:30:29
+Case 2969,Assign seriousness,2012/03/05 14:00:59
+Case 2969,Take in charge ticket,2012/03/05 14:07:25
+Case 2969,Resolve ticket,2012/03/06 16:51:28
+Case 2969,Closed,2012/04/20 13:10:23
+Case 2974,Assign seriousness,2012/02/08 11:25:52
+Case 2974,Take in charge ticket,2012/02/08 11:25:59
+Case 2974,Resolve ticket,2012/02/09 09:10:23
+Case 2974,Closed,2012/03/23 11:30:40
+Case 2978,Assign seriousness,2012/04/11 09:07:00
+Case 2978,Take in charge ticket,2012/04/11 12:21:13
+Case 2978,Wait,2012/04/16 07:23:40
+Case 2978,Resolve ticket,2012/04/16 12:54:21
+Case 2978,Closed,2012/06/03 14:41:10
+Case 2987,Assign seriousness,2012/03/26 15:59:53
+Case 2987,Take in charge ticket,2012/03/26 16:00:03
+Case 2987,Resolve ticket,2012/03/29 07:31:26
+Case 2987,Closed,2012/05/18 16:00:48
+Case 300,Assign seriousness,2012/03/21 16:34:29
+Case 300,Take in charge ticket,2012/03/21 16:34:39
+Case 300,Resolve ticket,2012/03/26 10:31:22
+Case 300,Closed,2012/04/21 15:41:09
+Case 3019,Assign seriousness,2012/02/06 08:36:59
+Case 3019,Take in charge ticket,2012/02/06 08:45:50
+Case 3019,Resolve ticket,2012/02/06 08:49:19
+Case 3019,Closed,2012/03/10 08:40:28
+Case 3020,Assign seriousness,2012/04/06 07:25:39
+Case 3020,Take in charge ticket,2012/04/06 07:25:54
+Case 3020,Resolve ticket,2012/04/06 08:05:32
+Case 3020,Closed,2012/05/09 07:30:19
+Case 3023,Assign seriousness,2012/02/24 16:44:18
+Case 3023,Take in charge ticket,2012/03/05 11:28:44
+Case 3023,Resolve ticket,2012/03/05 11:55:26
+Case 3023,Closed,2012/03/28 15:51:01
+Case 3028,Assign seriousness,2012/03/22 11:24:21
+Case 3028,Take in charge ticket,2012/03/22 13:12:04
+Case 3028,Take in charge ticket,2012/03/22 13:32:43
+Case 3028,Wait,2012/04/02 09:30:50
+Case 3028,Take in charge ticket,2012/04/06 10:38:16
+Case 3028,Resolve ticket,2012/04/06 10:38:35
+Case 3028,Closed,2012/04/28 12:30:47
+Case 303,Assign seriousness,2012/02/06 08:29:21
+Case 303,Take in charge ticket,2012/02/06 08:29:28
+Case 303,Resolve ticket,2012/02/06 08:57:12
+Case 303,Closed,2012/03/15 08:30:46
+Case 3062,Assign seriousness,2011/12/30 10:20:19
+Case 3062,Take in charge ticket,2011/12/30 10:23:02
+Case 3062,Resolve ticket,2011/12/30 11:16:16
+Case 3062,Resolve ticket,2011/12/30 11:16:17
+Case 3062,Closed,2012/02/01 10:31:31
+Case 3064,Assign seriousness,2012/01/20 09:10:34
+Case 3064,Take in charge ticket,2012/01/20 14:06:37
+Case 3064,Resolve ticket,2012/01/23 13:54:06
+Case 3064,Closed,2012/03/04 09:20:31
+Case 3067,Assign seriousness,2012/03/07 09:08:10
+Case 3067,Take in charge ticket,2012/03/07 16:47:21
+Case 3067,Wait,2012/03/13 16:26:02
+Case 3067,Resolve ticket,2012/03/16 14:51:38
+Case 3067,Closed,2012/04/18 15:43:11
+Case 3074,Assign seriousness,2012/03/05 09:43:00
+Case 3074,Take in charge ticket,2012/03/06 08:45:12
+Case 3074,Resolve ticket,2012/03/13 14:58:07
+Case 3074,Closed,2012/04/05 08:50:47
+Case 3081,Resolve ticket,2012/03/01 09:20:30
+Case 3081,Take in charge ticket,2012/03/01 16:45:03
+Case 3081,Resolve ticket,2012/03/02 14:21:40
+Case 3081,Closed,2012/04/03 08:30:56
+Case 3094,Assign seriousness,2012/03/02 11:14:48
+Case 3094,Take in charge ticket,2012/03/02 13:49:02
+Case 3094,Resolve ticket,2012/03/16 11:21:52
+Case 3094,Closed,2012/04/04 10:20:24
+Case 3097,Assign seriousness,2012/01/20 11:08:05
+Case 3097,Resolve ticket,2012/01/24 16:01:34
+Case 3097,Closed,2012/03/08 11:10:27
+Case 3108,Assign seriousness,2011/12/20 16:54:40
+Case 3108,Resolve ticket,2011/12/20 16:59:59
+Case 3108,Closed,2012/01/20 17:01:08
+Case 311,Assign seriousness,2012/03/20 10:06:09
+Case 311,Take in charge ticket,2012/03/20 10:06:45
+Case 311,Resolve ticket,2012/03/20 10:07:16
+Case 311,Closed,2012/04/20 09:10:28
+Case 3127,Assign seriousness,2012/02/21 15:27:10
+Case 3127,Take in charge ticket,2012/02/21 15:27:19
+Case 3127,Resolve ticket,2012/03/09 08:33:25
+Case 3127,Closed,2012/03/24 08:33:32
+Case 3129,Assign seriousness,2012/02/21 14:56:34
+Case 3129,Take in charge ticket,2012/02/22 08:38:57
+Case 3129,Resolve ticket,2012/03/14 10:36:17
+Case 3129,Closed,2012/03/29 09:36:35
+Case 3135,Assign seriousness,2012/01/23 09:23:20
+Case 3135,Take in charge ticket,2012/01/23 09:23:37
+Case 3135,Create SW anomaly,2012/02/14 12:00:54
+Case 3135,Resolve ticket,2012/03/06 10:26:33
+Case 3135,Closed,2012/03/21 10:37:54
+Case 3144,Assign seriousness,2011/12/28 15:00:50
+Case 3144,Take in charge ticket,2011/12/28 15:37:34
+Case 3144,Resolve ticket,2011/12/28 15:49:11
+Case 3144,Closed,2012/02/10 15:10:53
+Case 3146,Assign seriousness,2012/01/16 08:37:34
+Case 3146,Take in charge ticket,2012/01/16 08:39:50
+Case 3146,Resolve ticket,2012/01/18 16:24:43
+Case 3146,Closed,2012/02/29 08:40:21
+Case 3157,Assign seriousness,2012/01/09 13:24:02
+Case 3157,Take in charge ticket,2012/01/09 13:24:20
+Case 3157,Wait,2012/01/13 10:42:10
+Case 3157,Resolve ticket,2012/01/13 11:02:55
+Case 3157,Closed,2012/02/09 13:50:16
+Case 3165,Assign seriousness,2012/01/19 16:52:03
+Case 3165,Resolve ticket,2012/01/19 16:52:37
+Case 3165,Closed,2012/02/25 17:00:19
+Case 3166,Assign seriousness,2012/01/31 14:16:30
+Case 3166,Take in charge ticket,2012/01/31 15:58:01
+Case 3166,Resolve ticket,2012/01/31 16:59:16
+Case 3166,Closed,2012/03/17 14:20:39
+Case 3204,Assign seriousness,2012/02/02 15:35:29
+Case 3204,Take in charge ticket,2012/02/03 16:58:01
+Case 3204,Resolve ticket,2012/02/06 13:59:13
+Case 3204,Closed,2012/03/06 15:40:26
+Case 3205,Assign seriousness,2012/02/07 13:31:23
+Case 3205,Take in charge ticket,2012/02/08 08:58:10
+Case 3205,Resolve ticket,2012/02/08 14:10:26
+Case 3205,Closed,2012/03/09 13:40:17
+Case 3206,Assign seriousness,2012/01/09 09:59:35
+Case 3206,Take in charge ticket,2012/01/09 09:59:52
+Case 3206,Resolve ticket,2012/01/12 15:24:44
+Case 3206,Closed,2012/02/09 10:00:25
+Case 3225,Assign seriousness,2012/02/09 16:30:42
+Case 3225,Take in charge ticket,2012/02/09 16:30:50
+Case 3225,Resolve ticket,2012/02/27 13:20:58
+Case 3225,Closed,2012/03/13 16:40:23
+Case 3241,Assign seriousness,2011/12/27 11:51:00
+Case 3241,Take in charge ticket,2011/12/27 11:51:10
+Case 3241,Resolve ticket,2011/12/29 16:13:51
+Case 3241,Closed,2012/01/27 12:00:24
+Case 3255,Assign seriousness,2012/01/19 13:34:53
+Case 3255,Take in charge ticket,2012/02/03 11:50:17
+Case 3255,Resolve ticket,2012/02/09 16:07:29
+Case 3255,Closed,2012/03/10 16:08:05
+Case 3258,Assign seriousness,2012/01/19 16:22:25
+Case 3258,Resolve ticket,2012/01/19 16:22:42
+Case 3258,Closed,2012/02/21 16:30:30
+Case 3259,Assign seriousness,2012/02/29 10:44:38
+Case 3259,Take in charge ticket,2012/02/29 10:44:47
+Case 3259,Resolve ticket,2012/03/05 09:45:26
+Case 3259,Closed,2012/03/31 09:50:56
+Case 3269,Assign seriousness,2012/03/08 13:40:27
+Case 3269,Take in charge ticket,2012/03/08 13:40:40
+Case 3269,Resolve ticket,2012/03/08 13:55:56
+Case 3269,Closed,2012/04/10 12:52:36
+Case 3275,Assign seriousness,2012/01/11 08:48:44
+Case 3275,Take in charge ticket,2012/01/11 08:52:55
+Case 3275,Resolve ticket,2012/01/11 10:22:51
+Case 3275,Resolve ticket,2012/01/11 10:22:51
+Case 3275,Closed,2012/02/11 08:50:33
+Case 328,Assign seriousness,2012/01/10 09:59:44
+Case 328,Take in charge ticket,2012/01/10 09:59:56
+Case 328,Resolve ticket,2012/01/10 11:07:13
+Case 328,Closed,2012/02/10 10:00:22
+Case 3282,Assign seriousness,2012/01/09 10:06:53
+Case 3282,Take in charge ticket,2012/01/09 10:07:36
+Case 3282,Resolve ticket,2012/01/09 10:42:43
+Case 3282,Resolve ticket,2012/01/09 10:42:43
+Case 3282,Closed,2012/02/16 10:10:35
+Case 3283,Assign seriousness,2012/02/22 09:46:22
+Case 3283,Take in charge ticket,2012/02/22 13:52:22
+Case 3283,Resolve ticket,2012/03/07 11:24:02
+Case 3283,Closed,2012/03/24 09:50:32
+Case 3293,Assign seriousness,2012/01/23 08:34:55
+Case 3293,Resolve ticket,2012/01/24 11:25:45
+Case 3293,Resolve ticket,2012/01/24 11:25:46
+Case 3293,Closed,2012/02/23 08:40:45
+Case 3297,Assign seriousness,2012/01/10 11:33:53
+Case 3297,Assign seriousness,2012/01/16 08:41:47
+Case 3297,Resolve ticket,2012/01/16 08:42:08
+Case 3297,Closed,2012/02/10 11:40:23
+Case 3303,Assign seriousness,2011/12/22 13:15:42
+Case 3303,Take in charge ticket,2012/01/05 09:44:49
+Case 3303,Wait,2012/01/05 13:51:52
+Case 3303,Resolve ticket,2012/01/27 09:49:58
+Case 3303,Closed,2012/02/15 09:12:36
+Case 3317,Assign seriousness,2012/02/17 08:37:27
+Case 3317,Take in charge ticket,2012/02/17 09:07:02
+Case 3317,Resolve ticket,2012/02/17 14:57:34
+Case 3317,Closed,2012/03/21 08:41:08
+Case 3325,Assign seriousness,2012/02/29 08:30:57
+Case 3325,Take in charge ticket,2012/02/29 08:48:37
+Case 3325,Create SW anomaly,2012/02/29 09:20:52
+Case 3325,Take in charge ticket,2012/03/01 08:12:13
+Case 3325,Wait,2012/03/01 08:13:12
+Case 3325,Resolve ticket,2012/03/28 08:29:27
+Case 3325,Closed,2012/04/20 07:40:13
+Case 3342,Assign seriousness,2012/01/10 11:22:28
+Case 3342,Take in charge ticket,2012/01/11 13:16:26
+Case 3342,Wait,2012/01/13 10:48:02
+Case 3342,Resolve ticket,2012/01/13 11:12:44
+Case 3342,Closed,2012/02/10 12:00:53
+Case 3343,Take in charge ticket,2012/01/27 14:20:58
+Case 3343,Resolve ticket,2012/02/01 14:51:22
+Case 3343,Closed,2012/03/22 14:30:43
+Case 3348,Assign seriousness,2012/03/06 11:51:34
+Case 3348,Take in charge ticket,2012/03/06 11:51:42
+Case 3348,Wait,2012/03/08 11:09:09
+Case 3348,Take in charge ticket,2012/03/28 08:58:02
+Case 3348,Wait,2012/03/28 14:46:46
+Case 3348,Resolve ticket,2012/04/02 12:35:15
+Case 3348,Closed,2012/04/18 07:40:26
+Case 3367,Assign seriousness,2012/01/02 08:09:36
+Case 3367,Take in charge ticket,2012/01/02 08:09:51
+Case 3367,Resolve ticket,2012/01/02 08:29:11
+Case 3367,Resolve ticket,2012/01/02 08:29:12
+Case 3367,Closed,2012/02/03 08:10:57
+Case 3374,Assign seriousness,2012/03/30 14:38:42
+Case 3374,Take in charge ticket,2012/03/30 14:38:53
+Case 3374,Resolve ticket,2012/03/30 15:55:39
+Case 3374,Closed,2012/05/09 14:44:03
+Case 3377,Assign seriousness,2012/01/11 08:03:49
+Case 3377,Take in charge ticket,2012/01/11 08:04:06
+Case 3377,Resolve ticket,2012/01/11 16:44:22
+Case 3377,Closed,2012/02/11 08:10:57
+Case 3391,Assign seriousness,2012/02/22 09:29:01
+Case 3391,Take in charge ticket,2012/02/22 09:29:13
+Case 3391,Take in charge ticket,2012/03/06 08:17:48
+Case 3391,Resolve ticket,2012/03/09 16:06:44
+Case 3391,Closed,2012/03/24 16:07:00
+Case 340,Assign seriousness,2012/03/06 11:18:20
+Case 340,Take in charge ticket,2012/03/06 16:53:18
+Case 340,Wait,2012/03/14 10:55:59
+Case 340,Resolve ticket,2012/03/15 16:03:14
+Case 340,Closed,2012/04/27 15:42:52
+Case 3404,Assign seriousness,2012/01/02 10:27:38
+Case 3404,Take in charge ticket,2012/01/02 10:28:56
+Case 3404,Resolve ticket,2012/01/02 13:21:41
+Case 3404,Closed,2012/02/02 10:31:14
+Case 3405,Assign seriousness,2011/12/22 16:08:10
+Case 3405,Wait,2011/12/22 16:08:31
+Case 3405,Take in charge ticket,2011/12/27 09:02:12
+Case 3405,Resolve ticket,2011/12/27 09:02:43
+Case 3405,Resolve ticket,2011/12/27 09:02:44
+Case 3405,Closed,2012/02/09 09:11:18
+Case 341,Assign seriousness,2011/12/21 13:53:06
+Case 341,Resolve ticket,2011/12/22 15:56:27
+Case 341,Closed,2012/02/05 14:00:26
+Case 3410,Assign seriousness,2012/02/09 16:54:54
+Case 3410,Take in charge ticket,2012/02/09 16:55:04
+Case 3410,Create SW anomaly,2012/02/14 12:01:48
+Case 3410,Resolve ticket,2012/03/06 10:38:23
+Case 3410,Closed,2012/03/24 15:40:19
+Case 3417,Assign seriousness,2012/03/19 10:13:37
+Case 3417,Take in charge ticket,2012/03/19 10:13:48
+Case 3417,Resolve ticket,2012/03/19 11:09:41
+Case 3417,Closed,2012/05/04 09:20:29
+Case 3425,Assign seriousness,2012/01/03 14:34:30
+Case 3425,Take in charge ticket,2012/01/09 11:22:28
+Case 3425,Resolve ticket,2012/01/09 11:27:16
+Case 3425,Closed,2012/02/16 14:40:39
+Case 3438,Assign seriousness,2012/02/28 11:28:59
+Case 3438,Take in charge ticket,2012/02/28 15:38:48
+Case 3438,Resolve ticket,2012/03/07 16:24:20
+Case 3438,Closed,2012/03/30 10:31:00
+Case 344,Assign seriousness,2012/01/19 17:02:37
+Case 344,Take in charge ticket,2012/01/19 17:02:55
+Case 344,Resolve ticket,2012/01/20 14:47:10
+Case 344,Closed,2012/02/21 17:02:30
+Case 3446,Assign seriousness,2012/02/13 15:29:36
+Case 3446,Take in charge ticket,2012/02/13 15:30:02
+Case 3446,Resolve ticket,2012/02/15 09:18:13
+Case 3446,Closed,2012/03/30 14:31:24
+Case 3456,Assign seriousness,2012/01/13 16:34:37
+Case 3456,Assign seriousness,2012/01/13 16:34:52
+Case 3456,Assign seriousness,2012/01/13 16:34:57
+Case 3456,Take in charge ticket,2012/01/16 08:40:11
+Case 3456,Resolve ticket,2012/01/16 14:06:13
+Case 3456,Closed,2012/02/26 16:40:57
+Case 3458,Assign seriousness,2012/02/07 16:01:46
+Case 3458,Resolve ticket,2012/02/07 16:02:54
+Case 3458,Closed,2012/03/09 16:10:17
+Case 3461,Assign seriousness,2012/01/27 10:22:17
+Case 3461,Take in charge ticket,2012/01/27 10:22:25
+Case 3461,Resolve ticket,2012/01/27 13:45:47
+Case 3461,Closed,2012/03/15 10:30:24
+Case 3467,Assign seriousness,2012/03/30 10:18:01
+Case 3467,Take in charge ticket,2012/04/02 07:56:28
+Case 3467,Resolve ticket,2012/04/03 13:56:52
+Case 3467,Take in charge ticket,2012/04/16 14:15:31
+Case 3467,Resolve ticket,2012/04/17 07:13:36
+Case 3467,Closed,2012/05/02 07:13:49
+Case 3468,Assign seriousness,2012/04/04 12:24:20
+Case 3468,Assign seriousness,2012/04/04 12:25:15
+Case 3468,Take in charge ticket,2012/04/04 12:38:22
+Case 3468,Resolve ticket,2012/04/05 11:24:08
+Case 3468,Closed,2012/05/18 12:30:38
+Case 3469,Assign seriousness,2012/03/06 09:41:41
+Case 3469,Take in charge ticket,2012/03/06 09:42:37
+Case 3469,Resolve ticket,2012/03/14 13:27:55
+Case 3469,Closed,2012/05/04 08:50:34
+Case 3474,Assign seriousness,2012/03/02 10:21:35
+Case 3474,Take in charge ticket,2012/03/02 10:21:43
+Case 3474,Resolve ticket,2012/03/02 10:51:21
+Case 3474,Closed,2012/04/19 09:30:48
+Case 3478,Assign seriousness,2011/12/20 17:04:31
+Case 3478,Resolve ticket,2011/12/21 14:13:43
+Case 3478,Resolve ticket,2011/12/21 14:13:43
+Case 3478,Closed,2012/01/20 17:00:33
+Case 3483,Assign seriousness,2012/01/09 11:04:38
+Case 3483,Take in charge ticket,2012/01/09 11:05:05
+Case 3483,Resolve ticket,2012/01/09 13:35:09
+Case 3483,Closed,2012/02/09 11:10:15
+Case 3485,Assign seriousness,2012/02/09 08:12:55
+Case 3485,Take in charge ticket,2012/02/09 08:14:00
+Case 3485,Resolve ticket,2012/02/09 08:39:32
+Case 3485,Resolve ticket,2012/02/09 08:39:32
+Case 3485,Closed,2012/03/13 08:20:53
+Case 3491,Assign seriousness,2012/03/21 10:34:02
+Case 3491,Resolve ticket,2012/03/21 10:50:13
+Case 3491,Closed,2012/04/21 09:40:41
+Case 35,Assign seriousness,2012/01/18 08:15:30
+Case 35,Resolve ticket,2012/01/18 09:46:37
+Case 35,Closed,2012/03/10 08:20:43
+Case 350,Assign seriousness,2011/12/28 13:37:00
+Case 350,Take in charge ticket,2012/01/18 11:36:11
+Case 350,Wait,2012/02/02 09:12:36
+Case 350,Resolve ticket,2012/02/07 11:21:54
+Case 350,Closed,2012/02/22 11:22:08
+Case 3501,Assign seriousness,2012/01/18 10:28:45
+Case 3501,Take in charge ticket,2012/01/18 10:29:00
+Case 3501,Resolve ticket,2012/01/18 14:12:25
+Case 3501,Closed,2012/03/04 10:31:32
+Case 3503,Assign seriousness,2012/03/22 16:45:48
+Case 3503,Take in charge ticket,2012/03/22 17:00:39
+Case 3503,Resolve ticket,2012/03/27 09:51:31
+Case 3503,Closed,2012/05/09 15:50:12
+Case 3520,Assign seriousness,2012/01/25 14:18:19
+Case 3520,Take in charge ticket,2012/01/25 14:18:29
+Case 3520,Resolve ticket,2012/01/26 10:23:54
+Case 3520,Closed,2012/02/25 14:20:24
+Case 3531,Assign seriousness,2012/03/05 14:42:14
+Case 3531,Take in charge ticket,2012/03/06 08:43:50
+Case 3531,Wait,2012/03/12 13:49:28
+Case 3531,Resolve ticket,2012/03/28 08:25:23
+Case 3531,Closed,2012/04/13 09:30:16
+Case 3536,Assign seriousness,2012/04/02 08:47:25
+Case 3536,Take in charge ticket,2012/04/02 08:47:34
+Case 3536,Resolve ticket,2012/04/02 09:38:03
+Case 3536,Closed,2012/05/19 08:50:52
+Case 3556,Assign seriousness,2012/02/08 09:00:58
+Case 3556,Take in charge ticket,2012/02/08 13:34:11
+Case 3556,Resolve ticket,2012/02/08 13:34:47
+Case 3556,Closed,2012/03/10 09:10:43
+Case 3560,Assign seriousness,2012/03/06 08:40:46
+Case 3560,Take in charge ticket,2012/03/06 16:31:34
+Case 3560,Resolve ticket,2012/03/06 16:38:18
+Case 3560,Closed,2012/04/06 07:50:16
+Case 3561,Assign seriousness,2012/03/29 15:37:28
+Case 3561,Take in charge ticket,2012/03/29 15:37:35
+Case 3561,Wait,2012/04/06 09:02:45
+Case 3561,Resolve ticket,2012/04/16 14:26:18
+Case 3561,Closed,2012/05/01 14:26:27
+Case 3564,Assign seriousness,2012/01/09 08:34:27
+Case 3564,Take in charge ticket,2012/01/13 08:32:31
+Case 3564,Resolve ticket,2012/01/16 09:02:38
+Case 3564,Closed,2012/03/01 09:03:11
+Case 3572,Take in charge ticket,2012/01/13 11:39:49
+Case 3572,Resolve ticket,2012/01/17 13:43:42
+Case 3572,Closed,2012/02/15 11:40:28
+Case 3581,Assign seriousness,2012/03/12 09:59:56
+Case 3581,Take in charge ticket,2012/03/12 10:09:54
+Case 3581,Resolve ticket,2012/03/12 10:32:23
+Case 3581,Closed,2012/04/12 09:00:21
+Case 3585,Assign seriousness,2012/03/15 08:10:20
+Case 3585,Take in charge ticket,2012/03/15 08:12:19
+Case 3585,Resolve ticket,2012/04/04 09:59:49
+Case 3585,Closed,2012/04/19 10:00:08
+Case 3588,Assign seriousness,2012/03/02 08:06:31
+Case 3588,Take in charge ticket,2012/03/02 08:51:19
+Case 3588,Resolve ticket,2012/03/02 09:06:10
+Case 3588,Closed,2012/04/15 07:10:57
+Case 3591,Assign seriousness,2012/04/12 07:48:54
+Case 3591,Take in charge ticket,2012/04/12 07:49:11
+Case 3591,Resolve ticket,2012/04/12 09:32:05
+Case 3591,Closed,2012/05/15 07:50:11
+Case 3618,Assign seriousness,2012/01/10 09:11:10
+Case 3618,Take in charge ticket,2012/01/10 09:11:22
+Case 3618,Resolve ticket,2012/01/11 09:46:42
+Case 3618,Closed,2012/02/25 09:20:33
+Case 362,Assign seriousness,2012/02/23 09:45:01
+Case 362,Take in charge ticket,2012/03/12 15:06:36
+Case 362,Wait,2012/03/13 17:53:46
+Case 362,Resolve ticket,2012/03/30 14:00:29
+Case 362,Closed,2012/04/14 14:00:42
+Case 3622,Assign seriousness,2012/01/30 11:28:04
+Case 3622,Resolve ticket,2012/01/30 11:34:55
+Case 3622,Closed,2012/03/01 11:30:32
+Case 3629,Assign seriousness,2012/03/19 16:55:08
+Case 3629,Take in charge ticket,2012/03/20 11:48:10
+Case 3629,Resolve ticket,2012/03/22 09:36:19
+Case 3629,Closed,2012/05/04 16:00:27
+Case 3658,Assign seriousness,2012/03/15 15:58:06
+Case 3658,Take in charge ticket,2012/03/19 08:34:07
+Case 3658,Wait,2012/03/19 10:18:58
+Case 3658,Resolve ticket,2012/03/20 08:26:07
+Case 3658,Closed,2012/05/10 13:10:42
+Case 3660,Assign seriousness,2012/01/20 11:34:17
+Case 3660,Take in charge ticket,2012/01/20 11:34:27
+Case 3660,Resolve ticket,2012/01/24 10:31:06
+Case 3660,Closed,2012/03/10 11:40:39
+Case 3661,Assign seriousness,2012/03/13 09:50:46
+Case 3661,Take in charge ticket,2012/03/13 09:50:56
+Case 3661,Resolve ticket,2012/03/19 10:11:35
+Case 3661,Closed,2012/04/20 09:00:23
+Case 3677,Assign seriousness,2011/12/23 11:35:19
+Case 3677,Resolve ticket,2011/12/23 11:35:48
+Case 3677,Closed,2012/02/05 11:40:27
+Case 3698,Take in charge ticket,2012/01/10 16:37:22
+Case 3698,Wait,2012/01/16 15:22:32
+Case 3698,Resolve ticket,2012/01/27 09:20:57
+Case 3698,Closed,2012/03/09 10:41:26
+Case 3699,Assign seriousness,2012/02/02 15:33:22
+Case 3699,Take in charge ticket,2012/02/07 11:13:39
+Case 3699,Resolve ticket,2012/02/15 16:48:51
+Case 3699,Closed,2012/03/06 15:40:26
+Case 3704,Assign seriousness,2011/12/22 10:13:35
+Case 3704,Resolve ticket,2011/12/22 10:13:44
+Case 3704,Closed,2012/02/08 10:22:42
+Case 371,Assign seriousness,2012/01/26 10:51:34
+Case 371,Take in charge ticket,2012/01/26 10:51:43
+Case 371,Resolve ticket,2012/01/26 11:56:27
+Case 371,Closed,2012/03/14 11:00:40
+Case 3712,Assign seriousness,2012/04/02 10:21:01
+Case 3712,Take in charge ticket,2012/04/03 07:52:30
+Case 3712,Resolve ticket,2012/04/03 07:53:49
+Case 3712,Closed,2012/05/20 10:30:38
+Case 3718,Assign seriousness,2012/01/17 14:20:12
+Case 3718,Take in charge ticket,2012/01/18 14:35:19
+Case 3718,Resolve ticket,2012/01/20 13:59:59
+Case 3718,Take in charge ticket,2012/01/24 15:59:13
+Case 3718,Wait,2012/01/26 16:07:15
+Case 3718,Resolve ticket,2012/02/08 14:50:41
+Case 3718,Closed,2012/03/09 14:50:57
+Case 3726,Assign seriousness,2012/01/26 13:07:42
+Case 3726,Take in charge ticket,2012/01/30 09:28:47
+Case 3726,Resolve ticket,2012/01/30 09:31:51
+Case 3726,Closed,2012/03/04 13:10:28
+Case 3727,Assign seriousness,2012/01/03 14:42:41
+Case 3727,Take in charge ticket,2012/01/03 14:43:13
+Case 3727,Resolve ticket,2012/01/09 13:12:24
+Case 3727,Closed,2012/02/25 14:50:26
+Case 3728,Assign seriousness,2011/12/20 08:34:17
+Case 3728,Assign seriousness,2011/12/20 14:37:22
+Case 3728,Resolve ticket,2011/12/20 14:43:17
+Case 3728,Closed,2012/01/20 08:40:18
+Case 3736,Take in charge ticket,2012/03/29 10:18:54
+Case 3736,Resolve ticket,2012/03/29 10:51:32
+Case 3736,Closed,2012/05/21 10:21:06
+Case 3747,Assign seriousness,2012/01/16 14:16:46
+Case 3747,Take in charge ticket,2012/01/18 16:04:11
+Case 3747,Resolve ticket,2012/01/26 10:25:08
+Case 3747,Closed,2012/02/16 14:20:29
+Case 3751,Assign seriousness,2012/03/20 11:21:24
+Case 3751,Take in charge ticket,2012/03/20 14:01:32
+Case 3751,Resolve ticket,2012/03/20 14:03:28
+Case 3751,Closed,2012/05/03 10:30:51
+Case 3753,Assign seriousness,2012/03/20 11:27:36
+Case 3753,Take in charge ticket,2012/03/20 14:04:30
+Case 3753,Resolve ticket,2012/03/20 16:37:06
+Case 3753,Closed,2012/05/03 10:30:31
+Case 3763,Assign seriousness,2012/03/08 13:22:34
+Case 3763,Take in charge ticket,2012/03/09 16:56:02
+Case 3763,Resolve ticket,2012/03/12 10:58:16
+Case 3763,Closed,2012/04/15 12:30:55
+Case 3765,Assign seriousness,2012/02/20 16:53:21
+Case 3765,Take in charge ticket,2012/02/20 16:53:31
+Case 3765,Resolve ticket,2012/02/20 17:03:32
+Case 3765,Closed,2012/03/24 17:00:30
+Case 3772,Assign seriousness,2012/01/20 17:00:17
+Case 3772,Take in charge ticket,2012/01/23 11:46:02
+Case 3772,Resolve ticket,2012/02/08 09:47:44
+Case 3772,Take in charge ticket,2012/02/09 08:21:39
+Case 3772,Resolve ticket,2012/02/09 16:05:00
+Case 3772,Closed,2012/02/24 16:05:21
+Case 3773,Assign seriousness,2012/02/29 09:59:56
+Case 3773,Take in charge ticket,2012/02/29 10:00:09
+Case 3773,Resolve ticket,2012/02/29 11:35:35
+Case 3773,Closed,2012/03/31 09:00:21
+Case 3774,Assign seriousness,2012/01/13 11:14:15
+Case 3774,Take in charge ticket,2012/01/13 11:14:30
+Case 3774,Wait,2012/01/18 14:20:19
+Case 3774,Resolve ticket,2012/01/19 16:16:46
+Case 3774,Closed,2012/02/16 14:10:31
+Case 3777,Assign seriousness,2012/01/11 14:28:02
+Case 3777,Take in charge ticket,2012/01/16 15:54:02
+Case 3777,Resolve ticket,2012/01/20 08:22:43
+Case 3777,Closed,2012/03/10 14:30:49
+Case 3789,Assign seriousness,2012/03/23 13:49:59
+Case 3789,Take in charge ticket,2012/03/26 07:01:08
+Case 3789,Wait,2012/04/06 07:40:09
+Case 3789,Take in charge ticket,2012/04/10 13:30:35
+Case 3789,Resolve ticket,2012/04/10 13:31:10
+Case 3789,Closed,2012/04/25 13:31:23
+Case 3793,Assign seriousness,2012/02/14 08:59:59
+Case 3793,Take in charge ticket,2012/02/15 16:40:55
+Case 3793,Wait,2012/02/24 10:31:11
+Case 3793,Resolve ticket,2012/03/02 14:22:26
+Case 3793,Closed,2012/03/23 11:50:20
+Case 3797,Assign seriousness,2012/01/16 16:16:57
+Case 3797,Take in charge ticket,2012/01/16 16:17:12
+Case 3797,Wait,2012/01/23 13:32:06
+Case 3797,Take in charge ticket,2012/02/17 09:40:26
+Case 3797,Resolve ticket,2012/02/23 15:47:22
+Case 3797,Closed,2012/03/09 15:47:42
+Case 38,Assign seriousness,2012/03/20 07:57:45
+Case 38,Take in charge ticket,2012/03/20 07:58:15
+Case 38,Resolve ticket,2012/03/20 08:18:56
+Case 38,Closed,2012/04/21 16:00:36
+Case 3800,Assign seriousness,2012/01/05 17:00:36
+Case 3800,Take in charge ticket,2012/01/16 08:35:07
+Case 3800,Wait,2012/01/16 08:37:16
+Case 3800,Resolve ticket,2012/01/16 08:54:49
+Case 3800,Closed,2012/02/08 08:20:27
+Case 3801,Assign seriousness,2012/03/07 16:56:32
+Case 3801,Take in charge ticket,2012/03/07 16:56:41
+Case 3801,Resolve ticket,2012/03/08 14:52:58
+Case 3801,Closed,2012/04/20 16:00:34
+Case 3805,Assign seriousness,2011/12/21 14:22:57
+Case 3805,Take in charge ticket,2011/12/23 15:37:45
+Case 3805,Resolve ticket,2011/12/29 15:24:57
+Case 3805,Resolve ticket,2011/12/29 15:24:57
+Case 3805,Closed,2012/01/28 15:25:25
+Case 3808,Take in charge ticket,2012/04/03 08:24:55
+Case 3808,Resolve ticket,2012/04/03 08:25:46
+Case 3808,Closed,2012/05/05 08:30:56
+Case 3811,Assign seriousness,2012/01/17 14:40:21
+Case 3811,Take in charge ticket,2012/01/19 08:11:06
+Case 3811,Resolve ticket,2012/01/23 11:15:24
+Case 3811,Closed,2012/03/01 14:50:32
+Case 3820,Assign seriousness,2012/03/15 13:22:51
+Case 3820,Take in charge ticket,2012/03/15 13:23:01
+Case 3820,Resolve ticket,2012/03/15 14:16:11
+Case 3820,Resolve ticket,2012/03/15 14:16:11
+Case 3820,Closed,2012/04/17 12:30:20
+Case 3821,Assign seriousness,2012/02/15 09:35:36
+Case 3821,Take in charge ticket,2012/02/27 09:09:08
+Case 3821,Resolve ticket,2012/02/27 09:17:02
+Case 3821,Closed,2012/03/30 08:40:43
+Case 3828,Assign seriousness,2012/02/24 12:05:33
+Case 3828,Take in charge ticket,2012/02/24 12:05:56
+Case 3828,Wait,2012/03/01 11:11:05
+Case 3828,Take in charge ticket,2012/03/05 08:16:38
+Case 3828,Wait,2012/03/05 08:19:49
+Case 3828,Resolve ticket,2012/03/05 11:59:06
+Case 3828,Closed,2012/04/04 10:59:18
+Case 3829,Assign seriousness,2012/01/16 11:52:38
+Case 3829,Take in charge ticket,2012/01/23 11:43:06
+Case 3829,Resolve ticket,2012/01/24 13:07:44
+Case 3829,Closed,2012/02/23 13:08:10
+Case 3834,Assign seriousness,2011/12/28 08:13:11
+Case 3834,Take in charge ticket,2012/01/05 10:07:38
+Case 3834,Resolve ticket,2012/01/27 09:47:15
+Case 3834,Closed,2012/02/11 09:47:23
+Case 3842,Assign seriousness,2012/03/16 16:23:26
+Case 3842,Take in charge ticket,2012/03/16 16:28:48
+Case 3842,Resolve ticket,2012/03/20 11:42:43
+Case 3842,Closed,2012/05/03 15:30:32
+Case 3845,Assign seriousness,2012/02/24 15:38:13
+Case 3845,Take in charge ticket,2012/02/24 15:38:23
+Case 3845,Resolve ticket,2012/03/01 12:06:30
+Case 3845,Resolve ticket,2012/03/01 12:06:31
+Case 3845,Closed,2012/03/28 14:40:22
+Case 3846,Assign seriousness,2011/12/19 16:53:57
+Case 3846,Take in charge ticket,2011/12/20 14:48:13
+Case 3846,Wait,2011/12/20 16:28:54
+Case 3846,Resolve ticket,2012/01/10 11:08:29
+Case 3846,Closed,2012/01/25 11:08:45
+Case 3853,Assign seriousness,2012/01/18 10:25:49
+Case 3853,Take in charge ticket,2012/01/19 08:02:17
+Case 3853,Resolve ticket,2012/01/19 08:06:35
+Case 3853,Closed,2012/03/17 10:31:00
+Case 3861,Assign seriousness,2012/01/19 09:59:45
+Case 3861,Take in charge ticket,2012/01/19 10:39:09
+Case 3861,Wait,2012/01/26 16:35:54
+Case 3861,Resolve ticket,2012/01/26 16:45:03
+Case 3861,Closed,2012/02/21 10:10:44
+Case 3871,Assign seriousness,2012/01/12 11:57:34
+Case 3871,Take in charge ticket,2012/01/16 08:07:30
+Case 3871,Resolve ticket,2012/01/17 14:27:07
+Case 3871,Closed,2012/02/14 12:00:39
+Case 3878,Assign seriousness,2012/04/02 10:52:27
+Case 3878,Take in charge ticket,2012/04/03 10:13:23
+Case 3878,Resolve ticket,2012/04/03 10:19:27
+Case 3878,Closed,2012/05/03 11:00:21
+Case 3879,Assign seriousness,2012/01/18 15:13:24
+Case 3879,Take in charge ticket,2012/01/18 16:21:46
+Case 3879,Resolve ticket,2012/01/19 15:15:13
+Case 3879,Closed,2012/02/25 15:20:34
+Case 3894,Assign seriousness,2011/12/28 16:02:07
+Case 3894,Take in charge ticket,2012/01/09 16:41:04
+Case 3894,Resolve ticket,2012/01/17 16:29:59
+Case 3894,Closed,2012/02/16 16:30:20
+Case 3907,Assign seriousness,2012/02/20 13:44:36
+Case 3907,Take in charge ticket,2012/02/21 08:33:11
+Case 3907,Resolve ticket,2012/02/23 10:06:04
+Case 3907,Closed,2012/03/22 13:50:31
+Case 3909,Assign seriousness,2012/04/10 14:47:09
+Case 3909,Take in charge ticket,2012/04/10 15:18:39
+Case 3909,Wait,2012/04/13 13:08:43
+Case 3909,Resolve ticket,2012/04/24 12:35:42
+Case 3909,Closed,2012/05/22 14:20:40
+Case 392,Assign seriousness,2012/03/12 09:57:46
+Case 392,Resolve ticket,2012/03/12 14:53:29
+Case 392,Resolve ticket,2012/03/12 14:57:06
+Case 392,Closed,2012/04/25 09:00:26
+Case 3938,Assign seriousness,2012/02/08 09:55:05
+Case 3938,Take in charge ticket,2012/02/08 13:52:06
+Case 3938,Resolve ticket,2012/02/13 11:31:45
+Case 3938,Closed,2012/03/25 09:00:31
+Case 394,Assign seriousness,2012/01/12 12:02:38
+Case 394,Take in charge ticket,2012/01/13 09:45:33
+Case 394,Resolve ticket,2012/01/13 10:36:45
+Case 394,Closed,2012/02/14 12:00:48
+Case 3945,Assign seriousness,2012/03/30 14:58:18
+Case 3945,Take in charge ticket,2012/03/30 14:58:35
+Case 3945,Resolve ticket,2012/04/02 08:20:14
+Case 3945,Closed,2012/05/17 15:01:05
+Case 3953,Assign seriousness,2012/01/05 16:58:54
+Case 3953,Take in charge ticket,2012/01/09 08:17:49
+Case 3953,Resolve ticket,2012/01/09 09:22:16
+Case 3953,Closed,2012/02/07 17:00:25
+Case 3964,Assign seriousness,2012/02/02 15:57:25
+Case 3964,Take in charge ticket,2012/02/03 13:29:53
+Case 3964,Resolve ticket,2012/02/06 10:05:28
+Case 3964,Closed,2012/03/21 16:00:36
+Case 398,Assign seriousness,2012/01/25 08:03:28
+Case 398,Take in charge ticket,2012/01/25 08:39:20
+Case 398,Wait,2012/02/01 11:39:56
+Case 398,Resolve ticket,2012/02/28 17:22:35
+Case 398,Closed,2012/03/14 17:22:45
+Case 3989,Assign seriousness,2012/01/12 16:46:38
+Case 3989,Take in charge ticket,2012/01/12 16:59:28
+Case 3989,Resolve ticket,2012/01/13 08:24:54
+Case 3989,Closed,2012/02/29 16:50:32
+Case 3995,Assign seriousness,2012/02/16 10:45:32
+Case 3995,Take in charge ticket,2012/02/16 10:45:41
+Case 3995,Wait,2012/02/16 10:46:23
+Case 3995,Resolve ticket,2012/02/16 11:19:37
+Case 3995,Closed,2012/03/22 11:21:26
+Case 3998,Assign seriousness,2011/12/23 10:46:09
+Case 3998,Take in charge ticket,2011/12/23 15:42:01
+Case 3998,Resolve ticket,2011/12/23 16:09:18
+Case 3998,Closed,2012/02/05 10:51:16
+Case 3999,Assign seriousness,2012/01/20 11:18:12
+Case 3999,Take in charge ticket,2012/01/20 11:18:21
+Case 3999,Resolve ticket,2012/01/23 08:06:26
+Case 3999,Closed,2012/03/08 11:20:30
+Case 4010,Assign seriousness,2012/04/02 07:25:01
+Case 4010,Take in charge ticket,2012/04/02 07:29:58
+Case 4010,Resolve ticket,2012/04/02 13:16:30
+Case 4010,Resolve ticket,2012/04/02 13:16:32
+Case 4010,Closed,2012/05/05 07:30:44
+Case 4012,Assign seriousness,2012/02/17 13:09:27
+Case 4012,Assign seriousness,2012/02/17 14:43:55
+Case 4012,Take in charge ticket,2012/03/06 09:53:13
+Case 4012,Wait,2012/03/06 11:37:56
+Case 4012,Take in charge ticket,2012/03/15 15:38:11
+Case 4012,Wait,2012/03/15 15:38:28
+Case 4012,Resolve ticket,2012/03/30 14:07:43
+Case 4012,Closed,2012/04/14 14:40:12
+Case 403,Assign seriousness,2012/01/17 08:42:15
+Case 403,Take in charge ticket,2012/01/18 08:04:57
+Case 403,Resolve ticket,2012/01/18 08:17:49
+Case 403,Closed,2012/03/01 08:50:31
+Case 4041,Assign seriousness,2012/04/11 07:31:35
+Case 4041,Take in charge ticket,2012/04/11 08:06:45
+Case 4041,Resolve ticket,2012/04/11 13:06:45
+Case 4041,Closed,2012/05/12 07:40:13
+Case 4042,Assign seriousness,2012/02/03 10:48:29
+Case 4042,Resolve ticket,2012/02/03 10:48:40
+Case 4042,Closed,2012/03/07 10:51:24
+Case 4046,Assign seriousness,2012/03/12 11:01:53
+Case 4046,Take in charge ticket,2012/03/12 11:02:03
+Case 4046,Resolve ticket,2012/03/13 11:12:21
+Case 4046,Closed,2012/04/18 10:10:32
+Case 405,Assign seriousness,2012/01/20 08:17:51
+Case 405,Take in charge ticket,2012/01/20 08:18:14
+Case 405,Resolve ticket,2012/01/23 10:24:09
+Case 405,Take in charge ticket,2012/01/23 10:34:09
+Case 405,Resolve ticket,2012/01/25 16:05:48
+Case 405,Closed,2012/03/08 08:20:25
+Case 4052,Assign seriousness,2011/12/30 10:14:07
+Case 4052,Take in charge ticket,2012/01/02 09:04:23
+Case 4052,Resolve ticket,2012/01/13 14:28:30
+Case 4052,Closed,2012/02/01 10:22:41
+Case 4056,Assign seriousness,2012/02/14 15:09:55
+Case 4056,Resolve ticket,2012/02/14 15:10:30
+Case 4056,Closed,2012/03/29 14:10:28
+Case 4071,Assign seriousness,2012/01/13 09:44:29
+Case 4071,Take in charge ticket,2012/01/16 15:54:12
+Case 4071,Resolve ticket,2012/01/23 15:00:36
+Case 4071,Closed,2012/03/01 09:50:31
+Case 4087,Assign seriousness,2012/01/12 12:00:49
+Case 4087,Take in charge ticket,2012/01/13 08:34:29
+Case 4087,Wait,2012/02/03 11:51:14
+Case 4087,Resolve ticket,2012/02/09 12:02:21
+Case 4087,Closed,2012/02/24 12:02:44
+Case 4093,Assign seriousness,2012/02/09 16:19:34
+Case 4093,Take in charge ticket,2012/02/10 09:51:02
+Case 4093,Resolve ticket,2012/02/10 14:33:04
+Case 4093,Closed,2012/03/24 16:20:30
+Case 4110,Assign seriousness,2011/12/28 14:40:31
+Case 4110,Resolve ticket,2011/12/28 16:26:02
+Case 4110,Closed,2012/01/28 14:50:43
+Case 4111,Assign seriousness,2012/03/14 11:09:46
+Case 4111,Resolve ticket,2012/03/14 11:16:13
+Case 4111,Closed,2012/04/20 10:10:45
+Case 4116,Assign seriousness,2012/01/02 15:39:13
+Case 4116,Take in charge ticket,2012/01/05 10:34:21
+Case 4116,Resolve ticket,2012/01/18 16:14:50
+Case 4116,Closed,2012/02/02 16:15:07
+Case 4118,Assign seriousness,2012/01/11 10:29:37
+Case 4118,Take in charge ticket,2012/01/11 10:38:55
+Case 4118,Resolve ticket,2012/01/11 10:40:19
+Case 4118,Closed,2012/03/10 10:30:29
+Case 4121,Assign seriousness,2012/03/20 16:05:40
+Case 4121,Take in charge ticket,2012/03/20 16:05:48
+Case 4121,Wait,2012/03/21 14:12:33
+Case 4121,Resolve ticket,2012/04/16 14:20:00
+Case 4121,Closed,2012/05/01 14:20:17
+Case 4129,Assign seriousness,2012/04/03 14:18:14
+Case 4129,Take in charge ticket,2012/04/03 14:18:23
+Case 4129,Resolve ticket,2012/04/06 09:58:03
+Case 4129,Closed,2012/05/04 14:20:31
+Case 4132,Assign seriousness,2011/12/21 11:21:53
+Case 4132,Take in charge ticket,2011/12/21 11:22:09
+Case 4132,Resolve ticket,2011/12/21 15:53:12
+Case 4132,Resolve ticket,2011/12/21 15:53:12
+Case 4132,Closed,2012/01/25 11:30:25
+Case 4135,Assign seriousness,2012/01/18 11:43:06
+Case 4135,Take in charge ticket,2012/01/18 11:43:25
+Case 4135,Resolve ticket,2012/01/20 11:37:43
+Case 4135,Closed,2012/02/18 11:50:14
+Case 4136,Assign seriousness,2012/01/24 15:06:42
+Case 4136,Take in charge ticket,2012/01/24 16:45:04
+Case 4136,Resolve ticket,2012/01/30 09:02:45
+Case 4136,Closed,2012/03/23 15:10:41
+Case 415,Assign seriousness,2012/03/20 11:05:10
+Case 415,Take in charge ticket,2012/03/20 11:05:18
+Case 415,Resolve ticket,2012/03/21 15:23:54
+Case 415,Resolve ticket,2012/03/21 15:23:55
+Case 415,Closed,2012/05/05 10:11:49
+Case 4158,Assign seriousness,2012/01/16 14:39:21
+Case 4158,Take in charge ticket,2012/01/16 15:04:30
+Case 4158,Resolve ticket,2012/01/16 16:03:00
+Case 4158,Closed,2012/02/22 14:40:31
+Case 4159,Assign seriousness,2012/03/28 14:40:13
+Case 4159,Take in charge ticket,2012/04/03 07:32:43
+Case 4159,Resolve ticket,2012/04/10 13:40:36
+Case 4159,Closed,2012/05/13 14:50:24
+Case 4166,Assign seriousness,2012/04/03 11:00:16
+Case 4166,Take in charge ticket,2012/04/03 15:29:17
+Case 4166,Wait,2012/04/13 12:19:52
+Case 4166,Resolve ticket,2012/04/17 09:59:11
+Case 4166,Closed,2012/05/23 09:40:35
+Case 417,Assign seriousness,2012/04/03 16:21:42
+Case 417,Take in charge ticket,2012/04/04 14:04:39
+Case 417,Wait,2012/04/06 07:21:38
+Case 417,Resolve ticket,2012/04/16 12:36:10
+Case 417,Closed,2012/05/05 12:20:25
+Case 4170,Assign seriousness,2012/02/27 13:35:06
+Case 4170,Take in charge ticket,2012/02/27 13:35:15
+Case 4170,Resolve ticket,2012/02/29 09:09:32
+Case 4170,Closed,2012/04/13 12:40:22
+Case 4173,Assign seriousness,2012/01/10 10:01:57
+Case 4173,Take in charge ticket,2012/01/10 10:02:08
+Case 4173,Resolve ticket,2012/01/11 08:09:54
+Case 4173,Closed,2012/02/10 10:11:36
+Case 4181,Assign seriousness,2012/02/09 10:04:23
+Case 4181,Take in charge ticket,2012/02/09 10:12:32
+Case 4181,Wait,2012/02/17 08:02:22
+Case 4181,Take in charge ticket,2012/02/21 16:04:37
+Case 4181,Resolve ticket,2012/02/21 16:10:14
+Case 4181,Closed,2012/04/06 15:10:50
+Case 4191,Assign seriousness,2012/01/13 13:16:43
+Case 4191,Resolve ticket,2012/01/17 14:26:29
+Case 4191,Resolve ticket,2012/01/17 14:26:29
+Case 4191,Closed,2012/02/15 13:22:03
+Case 4201,Assign seriousness,2012/02/27 13:38:13
+Case 4201,Take in charge ticket,2012/02/27 13:38:22
+Case 4201,Resolve ticket,2012/02/27 14:02:15
+Case 4201,Closed,2012/03/31 12:40:52
+Case 4202,Assign seriousness,2012/03/21 13:26:57
+Case 4202,Take in charge ticket,2012/03/27 07:52:25
+Case 4202,Resolve ticket,2012/03/27 09:06:59
+Case 4202,Closed,2012/04/28 12:30:42
+Case 4204,Assign seriousness,2011/12/28 16:18:12
+Case 4204,Resolve ticket,2011/12/30 08:43:08
+Case 4204,Resolve ticket,2011/12/30 08:43:08
+Case 4204,Closed,2012/02/12 16:20:25
+Case 4205,Assign seriousness,2012/04/05 14:38:29
+Case 4205,Take in charge ticket,2012/04/06 10:43:15
+Case 4205,Resolve ticket,2012/04/06 12:48:18
+Case 4205,Closed,2012/05/23 14:40:18
+Case 4211,Assign seriousness,2012/02/16 16:13:24
+Case 4211,Take in charge ticket,2012/02/17 08:50:03
+Case 4211,Resolve ticket,2012/02/29 09:58:35
+Case 4211,Closed,2012/03/30 08:59:08
+Case 4214,Assign seriousness,2012/03/19 14:51:20
+Case 4214,Take in charge ticket,2012/03/20 13:54:34
+Case 4214,Resolve ticket,2012/03/20 15:19:09
+Case 4214,Closed,2012/04/19 14:00:20
+Case 4215,Assign seriousness,2012/02/16 16:04:39
+Case 4215,Assign seriousness,2012/02/17 08:38:07
+Case 4215,Resolve ticket,2012/02/17 09:01:26
+Case 4215,Closed,2012/03/31 15:10:33
+Case 4221,Assign seriousness,2012/02/13 15:04:30
+Case 4221,Take in charge ticket,2012/02/13 15:04:39
+Case 4221,Wait,2012/02/13 15:04:51
+Case 4221,Resolve ticket,2012/02/28 11:00:29
+Case 4221,Closed,2012/03/30 10:10:24
+Case 4233,Assign seriousness,2012/04/02 13:33:49
+Case 4233,Take in charge ticket,2012/04/03 07:17:30
+Case 4233,Resolve ticket,2012/04/05 16:05:22
+Case 4233,Closed,2012/05/31 13:40:25
+Case 4249,Assign seriousness,2012/03/19 11:18:58
+Case 4249,Take in charge ticket,2012/03/20 11:45:59
+Case 4249,Resolve ticket,2012/03/22 14:47:44
+Case 4249,Closed,2012/05/04 10:20:24
+Case 4251,Assign seriousness,2012/01/04 07:47:15
+Case 4251,Take in charge ticket,2012/01/09 11:56:18
+Case 4251,Resolve ticket,2012/01/16 13:07:55
+Case 4251,Resolve ticket,2012/01/16 13:07:56
+Case 4251,Closed,2012/03/02 17:00:30
+Case 4254,Assign seriousness,2012/01/02 09:42:51
+Case 4254,Take in charge ticket,2012/01/02 09:43:06
+Case 4254,Wait,2012/01/09 08:35:57
+Case 4254,Resolve ticket,2012/01/09 13:16:04
+Case 4254,Closed,2012/02/24 14:30:36
+Case 4262,Assign seriousness,2012/02/14 11:55:20
+Case 4262,Take in charge ticket,2012/02/15 16:40:43
+Case 4262,Resolve ticket,2012/02/27 15:57:42
+Case 4262,Closed,2012/03/31 11:00:47
+Case 4267,Assign seriousness,2012/01/13 11:48:56
+Case 4267,Take in charge ticket,2012/01/16 09:42:17
+Case 4267,Resolve ticket,2012/01/16 11:37:55
+Case 4267,Resolve ticket,2012/01/16 11:37:56
+Case 4267,Closed,2012/02/15 11:50:23
+Case 4271,Assign seriousness,2011/12/21 15:24:59
+Case 4271,Take in charge ticket,2011/12/21 15:25:19
+Case 4271,Resolve ticket,2011/12/21 15:45:11
+Case 4271,Closed,2012/01/21 15:30:21
+Case 4278,Assign seriousness,2012/01/05 15:50:13
+Case 4278,Take in charge ticket,2012/01/05 15:50:26
+Case 4278,Resolve ticket,2012/01/09 08:16:15
+Case 4278,Resolve ticket,2012/01/09 08:16:15
+Case 4278,Closed,2012/02/07 16:00:24
+Case 4279,Assign seriousness,2012/01/13 16:33:19
+Case 4279,Assign seriousness,2012/01/13 16:54:17
+Case 4279,Take in charge ticket,2012/01/16 08:34:48
+Case 4279,Resolve ticket,2012/01/16 09:06:13
+Case 4279,Closed,2012/02/26 16:40:38
+Case 4289,Assign seriousness,2012/02/22 11:49:22
+Case 4289,Resolve ticket,2012/02/22 11:49:33
+Case 4289,Closed,2012/03/24 11:50:23
+Case 4293,Assign seriousness,2012/03/06 16:52:52
+Case 4293,Take in charge ticket,2012/03/07 11:28:56
+Case 4293,Resolve ticket,2012/03/12 13:28:42
+Case 4293,Closed,2012/04/13 16:00:22
+Case 4299,Assign seriousness,2011/12/27 15:52:34
+Case 4299,Take in charge ticket,2011/12/27 16:53:23
+Case 4299,Resolve ticket,2011/12/28 14:37:21
+Case 4299,Resolve ticket,2011/12/28 14:37:22
+Case 4299,Closed,2012/01/27 16:00:36
+Case 43,Assign seriousness,2012/04/10 08:56:32
+Case 43,Take in charge ticket,2012/04/10 09:27:27
+Case 43,Resolve ticket,2012/04/10 10:53:28
+Case 43,Closed,2012/05/26 09:00:20
+Case 4304,Assign seriousness,2012/04/02 14:36:46
+Case 4304,Take in charge ticket,2012/04/03 10:51:10
+Case 4304,Take in charge ticket,2012/04/06 08:45:53
+Case 4304,Resolve ticket,2012/04/13 11:01:59
+Case 4304,Closed,2012/05/03 14:40:23
+Case 431,Assign seriousness,2012/02/02 15:06:04
+Case 431,Take in charge ticket,2012/02/02 15:06:16
+Case 431,Resolve ticket,2012/02/03 08:29:08
+Case 431,Closed,2012/03/08 15:10:30
+Case 4314,Assign seriousness,2012/01/11 10:39:13
+Case 4314,Take in charge ticket,2012/01/16 09:45:21
+Case 4314,Wait,2012/01/18 09:01:39
+Case 4314,Resolve ticket,2012/01/19 09:23:43
+Case 4314,Closed,2012/02/14 11:00:29
+Case 4315,Assign seriousness,2012/02/10 14:52:23
+Case 4315,Take in charge ticket,2012/02/13 08:07:40
+Case 4315,Resolve ticket,2012/02/28 12:13:54
+Case 4315,Closed,2012/03/14 12:14:05
+Case 4334,Assign seriousness,2012/03/15 13:24:42
+Case 4334,Take in charge ticket,2012/03/16 08:13:04
+Case 4334,Resolve ticket,2012/04/06 13:09:45
+Case 4334,Closed,2012/04/21 13:10:04
+Case 4335,Assign seriousness,2012/01/25 08:22:50
+Case 4335,Take in charge ticket,2012/01/25 08:23:06
+Case 4335,Resolve ticket,2012/01/25 11:18:13
+Case 4335,Closed,2012/03/23 08:30:38
+Case 4340,Assign seriousness,2012/01/13 13:19:41
+Case 4340,Take in charge ticket,2012/01/13 13:21:36
+Case 4340,Resolve ticket,2012/01/13 13:30:55
+Case 4340,Closed,2012/02/17 13:21:42
+Case 4343,Assign seriousness,2012/01/10 11:06:29
+Case 4343,Take in charge ticket,2012/01/10 11:06:39
+Case 4343,Resolve ticket,2012/01/10 11:44:15
+Case 4343,Closed,2012/02/16 11:10:36
+Case 4344,Assign seriousness,2012/02/10 14:47:22
+Case 4344,Take in charge ticket,2012/02/10 14:47:30
+Case 4344,Resolve ticket,2012/02/10 15:24:24
+Case 4344,Closed,2012/03/14 14:50:16
+Case 4364,Assign seriousness,2012/03/21 08:04:06
+Case 4364,Take in charge ticket,2012/03/21 08:34:36
+Case 4364,Resolve ticket,2012/03/21 15:22:19
+Case 4364,Closed,2012/04/21 07:10:18
+Case 4372,Assign seriousness,2012/03/07 10:56:15
+Case 4372,Resolve ticket,2012/03/07 11:07:03
+Case 4372,Closed,2012/04/07 10:02:08
+Case 439,Assign seriousness,2012/02/01 08:30:27
+Case 439,Take in charge ticket,2012/02/09 17:05:23
+Case 439,Resolve ticket,2012/02/15 10:07:50
+Case 439,Closed,2012/03/16 10:08:15
+Case 4390,Assign seriousness,2012/03/06 11:21:35
+Case 4390,Take in charge ticket,2012/03/06 11:46:41
+Case 4390,Resolve ticket,2012/03/06 13:39:02
+Case 4390,Closed,2012/04/28 10:30:31
+Case 4397,Assign seriousness,2012/02/03 08:38:06
+Case 4397,Take in charge ticket,2012/02/03 08:38:15
+Case 4397,Resolve ticket,2012/02/03 10:48:08
+Case 4397,Closed,2012/03/14 08:40:26
+Case 4408,Assign seriousness,2012/01/26 16:30:04
+Case 4408,Take in charge ticket,2012/01/27 14:06:47
+Case 4408,Resolve ticket,2012/02/06 13:24:46
+Case 4408,Closed,2012/02/28 16:40:28
+Case 4413,Assign seriousness,2012/04/05 13:17:34
+Case 4413,Take in charge ticket,2012/04/06 14:25:08
+Case 4413,Resolve ticket,2012/05/04 10:39:43
+Case 4413,Closed,2012/05/19 10:39:59
+Case 4429,Assign seriousness,2012/03/07 10:58:25
+Case 4429,Take in charge ticket,2012/03/08 13:54:04
+Case 4429,Resolve ticket,2012/03/09 14:46:32
+Case 4429,Closed,2012/04/07 10:01:09
+Case 4433,Take in charge ticket,2011/12/21 16:51:28
+Case 4433,Wait,2012/01/18 14:21:05
+Case 4433,Resolve ticket,2012/01/19 16:17:51
+Case 4433,Closed,2012/02/03 16:18:13
+Case 4448,Assign seriousness,2012/01/09 09:55:51
+Case 4448,Take in charge ticket,2012/01/16 08:38:28
+Case 4448,Resolve ticket,2012/01/31 09:34:24
+Case 4448,Closed,2012/02/15 09:34:44
+Case 4452,Assign seriousness,2012/03/14 11:32:41
+Case 4452,Take in charge ticket,2012/03/14 11:32:51
+Case 4452,Resolve ticket,2012/03/14 13:40:38
+Case 4452,Closed,2012/04/14 10:40:27
+Case 4457,Assign seriousness,2012/03/20 11:43:52
+Case 4457,Take in charge ticket,2012/03/20 11:44:09
+Case 4457,Resolve ticket,2012/03/20 11:46:22
+Case 4457,Closed,2012/04/20 10:50:33
+Case 4459,Assign seriousness,2012/02/10 10:01:32
+Case 4459,Take in charge ticket,2012/02/10 14:19:12
+Case 4459,Wait,2012/02/13 09:57:14
+Case 4459,Resolve ticket,2012/02/15 16:43:38
+Case 4459,Closed,2012/03/23 17:00:31
+Case 4491,Assign seriousness,2012/03/27 13:06:26
+Case 4491,Take in charge ticket,2012/03/28 09:55:47
+Case 4491,Resolve ticket,2012/04/03 15:05:03
+Case 4491,Closed,2012/04/27 13:10:22
+Case 4498,Assign seriousness,2012/01/27 10:26:59
+Case 4498,Take in charge ticket,2012/02/02 09:45:25
+Case 4498,Wait,2012/02/10 10:54:06
+Case 4498,Resolve ticket,2012/02/14 14:41:47
+Case 4498,Closed,2012/03/17 14:20:49
+Case 45,Assign seriousness,2012/01/20 14:08:14
+Case 45,Take in charge ticket,2012/01/25 11:46:19
+Case 45,Resolve ticket,2012/03/02 10:40:59
+Case 45,Closed,2012/03/17 10:41:18
+Case 4508,Assign seriousness,2012/04/04 09:39:57
+Case 4508,Take in charge ticket,2012/04/04 12:39:31
+Case 4508,Resolve ticket,2012/04/04 13:06:48
+Case 4508,Closed,2012/06/02 09:40:36
+Case 4527,Assign seriousness,2012/02/15 09:14:20
+Case 4527,Resolve ticket,2012/02/15 09:15:47
+Case 4527,Closed,2012/03/24 09:20:32
+Case 4531,Take in charge ticket,2012/01/25 09:28:06
+Case 4531,Resolve ticket,2012/01/25 13:57:09
+Case 4531,Closed,2012/02/25 09:30:36
+Case 4538,Assign seriousness,2012/02/10 15:14:48
+Case 4538,Take in charge ticket,2012/02/13 08:08:00
+Case 4538,Take in charge ticket,2012/02/17 08:40:51
+Case 4538,Take in charge ticket,2012/02/17 08:40:51
+Case 4538,Resolve ticket,2012/02/28 12:20:01
+Case 4538,Closed,2012/03/14 12:20:15
+Case 4541,Assign seriousness,2012/02/10 14:32:25
+Case 4541,Take in charge ticket,2012/02/15 11:29:00
+Case 4541,Resolve ticket,2012/02/15 14:22:40
+Case 4541,Closed,2012/03/14 14:40:35
+Case 4545,Assign seriousness,2012/03/29 13:55:12
+Case 4545,Take in charge ticket,2012/03/29 13:55:42
+Case 4545,Wait,2012/04/10 09:28:01
+Case 4545,Resolve ticket,2012/04/20 13:23:29
+Case 4545,Closed,2012/05/27 08:00:23
+Case 4546,Assign seriousness,2012/01/26 16:53:54
+Case 4546,Assign seriousness,2012/01/27 08:27:55
+Case 4546,Resolve ticket,2012/01/27 08:35:02
+Case 4546,Closed,2012/02/28 17:00:18
+Case 4552,Assign seriousness,2012/01/09 13:27:05
+Case 4552,Take in charge ticket,2012/01/20 18:28:06
+Case 4552,Resolve ticket,2012/01/23 13:29:16
+Case 4552,Closed,2012/02/09 13:30:46
+Case 4553,Assign seriousness,2011/12/30 08:51:21
+Case 4553,Take in charge ticket,2011/12/30 09:23:53
+Case 4553,Resolve ticket,2011/12/30 09:24:52
+Case 4553,Closed,2012/02/16 09:00:36
+Case 4559,Assign seriousness,2012/03/14 10:48:38
+Case 4559,Take in charge ticket,2012/03/14 10:50:36
+Case 4559,Resolve ticket,2012/03/14 11:17:02
+Case 4559,Closed,2012/04/29 09:51:34
+Case 4562,Assign seriousness,2012/01/17 11:12:49
+Case 4562,Take in charge ticket,2012/01/17 11:13:09
+Case 4562,Take in charge ticket,2012/02/08 14:55:58
+Case 4562,Resolve ticket,2012/02/10 14:01:52
+Case 4562,Closed,2012/02/25 14:02:07
+Case 4566,Assign seriousness,2012/03/30 09:09:55
+Case 4566,Take in charge ticket,2012/03/30 09:29:27
+Case 4566,Resolve ticket,2012/04/12 09:53:04
+Case 4566,Closed,2012/05/02 09:10:24
+Case 4567,Assign seriousness,2012/01/19 11:18:39
+Case 4567,Take in charge ticket,2012/01/25 10:56:28
+Case 4567,Wait,2012/01/30 09:22:53
+Case 4567,Take in charge ticket,2012/01/30 13:58:02
+Case 4567,Wait,2012/01/30 14:16:45
+Case 4567,Resolve ticket,2012/02/13 09:00:09
+Case 4567,Closed,2012/03/06 10:40:25
+Case 4570,Assign seriousness,2012/04/10 10:47:37
+Case 4570,Take in charge ticket,2012/04/10 10:47:47
+Case 4570,Resolve ticket,2012/04/11 07:32:15
+Case 4570,Resolve ticket,2012/04/11 07:32:15
+Case 4570,Closed,2012/05/11 10:50:14
+Case 4576,Assign seriousness,2012/02/14 10:21:51
+Case 4576,Take in charge ticket,2012/02/14 10:22:10
+Case 4576,Resolve ticket,2012/02/14 11:32:51
+Case 4576,Closed,2012/03/16 10:30:16
+Case 4578,Assign seriousness,2011/12/28 13:21:10
+Case 4578,Resolve ticket,2011/12/28 13:23:28
+Case 4578,Closed,2012/01/28 13:30:15
+Case 4580,Take in charge ticket,2012/01/03 09:33:43
+Case 4580,Wait,2012/01/10 15:30:11
+Case 4580,Resolve ticket,2012/01/10 17:07:40
+Case 4580,Closed,2012/02/08 17:00:34
+Case 461,Assign seriousness,2012/03/28 09:02:20
+Case 461,Take in charge ticket,2012/03/28 09:49:03
+Case 461,Wait,2012/03/30 07:52:33
+Case 461,Resolve ticket,2012/04/16 08:48:18
+Case 461,Closed,2012/05/02 10:01:40
+Case 477,Assign seriousness,2012/01/04 08:34:18
+Case 477,Take in charge ticket,2012/01/04 08:34:29
+Case 477,Resolve ticket,2012/01/04 09:17:14
+Case 477,Closed,2012/02/11 08:40:36
+Case 493,Assign seriousness,2011/12/22 16:48:48
+Case 493,Take in charge ticket,2011/12/27 08:30:02
+Case 493,Resolve ticket,2011/12/29 08:36:13
+Case 493,Closed,2012/02/04 16:50:24
+Case 5,Assign seriousness,2012/04/03 13:08:32
+Case 5,Take in charge ticket,2012/04/03 13:45:33
+Case 5,Resolve ticket,2012/04/03 13:47:22
+Case 5,Take in charge ticket,2012/04/03 14:15:02
+Case 5,Resolve ticket,2012/04/03 16:07:28
+Case 5,Closed,2012/05/25 13:10:28
+Case 50,Assign seriousness,2012/01/16 10:53:01
+Case 50,Take in charge ticket,2012/01/16 10:59:51
+Case 50,Resolve ticket,2012/01/16 16:37:54
+Case 50,Resolve ticket,2012/01/16 16:37:55
+Case 50,Closed,2012/02/16 11:00:57
+Case 505,Assign seriousness,2012/01/20 14:25:53
+Case 505,Take in charge ticket,2012/01/20 14:26:12
+Case 505,Resolve ticket,2012/02/01 15:22:25
+Case 505,Closed,2012/02/22 14:30:19
+Case 508,Assign seriousness,2012/02/23 13:43:24
+Case 508,Take in charge ticket,2012/02/23 13:43:39
+Case 508,Wait,2012/02/24 09:44:16
+Case 508,Resolve ticket,2012/03/12 10:34:52
+Case 508,Closed,2012/03/27 09:35:02
+Case 514,Assign seriousness,2011/12/27 11:54:23
+Case 514,Take in charge ticket,2011/12/27 15:39:22
+Case 514,Resolve ticket,2011/12/30 09:04:14
+Case 514,Resolve ticket,2011/12/30 09:04:15
+Case 514,Closed,2012/02/03 12:01:12
+Case 521,Assign seriousness,2012/01/09 10:49:13
+Case 521,Take in charge ticket,2012/01/10 08:42:03
+Case 521,Resolve ticket,2012/01/10 14:59:48
+Case 521,Closed,2012/03/01 10:50:31
+Case 524,Assign seriousness,2011/12/20 14:30:10
+Case 524,Take in charge ticket,2011/12/22 14:41:31
+Case 524,Resolve ticket,2012/01/03 09:17:57
+Case 524,Closed,2012/02/02 09:18:26
+Case 526,Assign seriousness,2012/03/05 08:10:32
+Case 526,Take in charge ticket,2012/03/06 16:54:43
+Case 526,Wait,2012/03/08 14:18:54
+Case 526,Resolve ticket,2012/03/20 10:54:02
+Case 526,Closed,2012/04/14 14:00:12
+Case 538,Assign seriousness,2012/02/08 15:27:05
+Case 538,Take in charge ticket,2012/02/08 15:35:36
+Case 538,Resolve ticket,2012/02/08 15:37:34
+Case 538,Closed,2012/03/10 15:30:20
+Case 544,Assign seriousness,2012/01/11 10:42:25
+Case 544,Take in charge ticket,2012/01/11 14:15:21
+Case 544,Resolve ticket,2012/01/11 14:21:45
+Case 544,Closed,2012/02/11 10:51:03
+Case 545,Assign seriousness,2012/02/29 13:58:38
+Case 545,Take in charge ticket,2012/02/29 15:33:17
+Case 545,Resolve ticket,2012/02/29 15:50:29
+Case 545,Closed,2012/04/07 13:00:29
+Case 549,Assign seriousness,2012/02/15 09:15:32
+Case 549,Take in charge ticket,2012/02/15 11:48:09
+Case 549,Resolve ticket,2012/02/29 11:19:14
+Case 549,Closed,2012/03/17 09:20:49
+Case 56,Assign seriousness,2012/01/30 11:32:58
+Case 56,Resolve ticket,2012/01/30 11:33:23
+Case 56,Closed,2012/03/14 11:40:25
+Case 59,Assign seriousness,2012/03/28 12:28:37
+Case 59,Take in charge ticket,2012/03/28 12:28:47
+Case 59,Resolve ticket,2012/03/28 15:32:57
+Case 59,Resolve ticket,2012/03/28 15:32:57
+Case 59,Closed,2012/04/28 12:30:17
+Case 592,Take in charge ticket,2012/01/23 08:40:34
+Case 592,Resolve ticket,2012/01/31 17:03:03
+Case 592,Closed,2012/02/23 08:50:25
+Case 596,Assign seriousness,2012/01/13 16:31:55
+Case 596,Take in charge ticket,2012/01/16 08:37:03
+Case 596,Resolve ticket,2012/01/16 15:39:17
+Case 596,Closed,2012/03/12 16:40:46
+Case 618,Assign seriousness,2012/01/30 16:21:12
+Case 618,Take in charge ticket,2012/01/30 16:21:21
+Case 618,Resolve ticket,2012/01/30 16:26:10
+Case 618,Closed,2012/03/14 16:30:35
+Case 620,Assign seriousness,2011/12/27 10:15:56
+Case 620,Take in charge ticket,2011/12/27 14:02:18
+Case 620,Wait,2011/12/27 15:02:37
+Case 620,Take in charge ticket,2012/01/12 08:25:56
+Case 620,Resolve ticket,2012/01/12 08:42:41
+Case 620,Closed,2012/02/11 08:43:08
+Case 629,Assign seriousness,2012/02/15 11:15:29
+Case 629,Resolve ticket,2012/02/15 11:16:08
+Case 629,Closed,2012/03/17 11:20:59
+Case 634,Assign seriousness,2012/03/22 08:46:45
+Case 634,Take in charge ticket,2012/03/22 08:48:01
+Case 634,Resolve ticket,2012/03/23 08:35:03
+Case 634,Closed,2012/05/09 07:50:29
+Case 643,Assign seriousness,2012/01/26 08:48:31
+Case 643,Take in charge ticket,2012/01/26 08:48:55
+Case 643,Resolve ticket,2012/01/26 14:37:16
+Case 643,Closed,2012/02/28 08:50:28
+Case 644,Take in charge ticket,2012/02/07 13:29:09
+Case 644,Resolve ticket,2012/02/14 16:38:48
+Case 644,Closed,2012/03/22 13:30:29
+Case 657,Assign seriousness,2012/02/23 10:31:43
+Case 657,Take in charge ticket,2012/02/23 13:41:39
+Case 657,Resolve ticket,2012/02/23 14:58:27
+Case 657,Closed,2012/03/27 09:40:12
+Case 660,Assign seriousness,2012/01/20 17:05:24
+Case 660,Take in charge ticket,2012/01/23 08:18:28
+Case 660,Wait,2012/02/01 11:15:21
+Case 660,Take in charge ticket,2012/02/15 16:18:43
+Case 660,Resolve ticket,2012/02/27 09:19:36
+Case 660,Closed,2012/03/13 09:19:48
+Case 674,Assign seriousness,2012/01/18 15:15:19
+Case 674,Take in charge ticket,2012/01/18 15:35:14
+Case 674,Wait,2012/01/23 13:42:27
+Case 674,Take in charge ticket,2012/01/23 15:29:34
+Case 674,Resolve ticket,2012/02/07 08:15:11
+Case 674,Closed,2012/03/08 08:15:32
+Case 68,Assign seriousness,2012/04/11 14:09:22
+Case 68,Take in charge ticket,2012/04/11 14:09:45
+Case 68,Resolve ticket,2012/04/12 10:31:37
+Case 68,Closed,2012/05/12 14:10:23
+Case 681,Assign seriousness,2012/01/10 15:07:34
+Case 681,Take in charge ticket,2012/01/10 15:08:08
+Case 681,Resolve ticket,2012/01/30 13:23:42
+Case 681,Closed,2012/02/29 13:24:04
+Case 682,Assign seriousness,2012/04/03 12:38:03
+Case 682,Take in charge ticket,2012/04/03 12:38:14
+Case 682,Resolve ticket,2012/04/04 08:11:46
+Case 682,Closed,2012/05/19 12:40:37
+Case 693,Assign seriousness,2012/03/28 13:50:57
+Case 693,Take in charge ticket,2012/03/28 13:51:56
+Case 693,Resolve ticket,2012/03/29 10:29:10
+Case 693,Closed,2012/04/28 14:00:17
+Case 695,Assign seriousness,2012/03/30 12:16:06
+Case 695,Take in charge ticket,2012/04/17 12:22:14
+Case 695,Wait,2012/04/17 14:41:56
+Case 695,Take in charge ticket,2012/04/18 12:47:40
+Case 695,Resolve ticket,2012/04/20 10:11:40
+Case 695,Closed,2012/05/20 10:19:01
+Case 698,Assign seriousness,2012/03/14 08:38:29
+Case 698,Take in charge ticket,2012/03/14 08:38:41
+Case 698,Resolve ticket,2012/03/14 13:26:29
+Case 698,Resolve ticket,2012/03/14 13:26:29
+Case 698,Closed,2012/04/14 07:40:46
+Case 705,Assign seriousness,2012/04/06 15:00:32
+Case 705,Resolve ticket,2012/04/06 15:16:02
+Case 705,Closed,2012/05/11 15:11:57
+Case 716,Assign seriousness,2012/03/21 13:43:53
+Case 716,Take in charge ticket,2012/03/21 16:23:56
+Case 716,Resolve ticket,2012/03/22 11:09:33
+Case 716,Resolve ticket,2012/03/22 11:09:34
+Case 716,Closed,2012/04/28 12:50:31
+Case 723,Assign seriousness,2011/12/20 09:49:57
+Case 723,Take in charge ticket,2011/12/20 11:37:14
+Case 723,Resolve ticket,2011/12/20 11:43:09
+Case 723,Closed,2012/01/27 09:50:47
+Case 731,Assign seriousness,2012/02/08 08:45:15
+Case 731,Take in charge ticket,2012/02/08 08:46:12
+Case 731,Take in charge ticket,2012/02/08 08:50:55
+Case 731,Resolve ticket,2012/02/08 09:04:47
+Case 731,Closed,2012/03/11 08:50:35
+Case 733,Assign seriousness,2012/02/01 13:17:35
+Case 733,Take in charge ticket,2012/02/02 13:43:52
+Case 733,Resolve ticket,2012/02/08 14:25:08
+Case 733,Closed,2012/03/10 13:20:59
+Case 736,Assign seriousness,2012/01/10 16:22:31
+Case 736,Take in charge ticket,2012/01/16 16:49:43
+Case 736,Resolve ticket,2012/01/17 11:55:34
+Case 736,Closed,2012/03/02 16:30:40
+Case 74,Resolve ticket,2012/02/10 11:42:26
+Case 74,Closed,2012/04/10 09:32:49
+Case 743,Assign seriousness,2012/01/12 14:19:54
+Case 743,Take in charge ticket,2012/01/12 16:58:23
+Case 743,Resolve ticket,2012/01/13 09:50:13
+Case 743,Resolve ticket,2012/01/13 09:50:13
+Case 743,Closed,2012/02/14 14:20:23
+Case 745,Assign seriousness,2012/01/03 16:07:37
+Case 745,Take in charge ticket,2012/01/04 10:29:40
+Case 745,Resolve ticket,2012/01/04 10:47:56
+Case 745,Closed,2012/02/10 16:10:24
+Case 746,Assign seriousness,2012/01/17 09:46:11
+Case 746,Take in charge ticket,2012/01/17 11:39:18
+Case 746,Resolve ticket,2012/01/30 16:03:09
+Case 746,Closed,2012/02/17 09:50:35
+Case 756,Assign seriousness,2012/01/17 10:24:07
+Case 756,Take in charge ticket,2012/01/17 11:47:32
+Case 756,Resolve ticket,2012/01/18 09:31:15
+Case 756,Closed,2012/03/14 10:25:35
+Case 76,Assign seriousness,2012/01/10 15:01:36
+Case 76,Resolve ticket,2012/01/10 15:58:08
+Case 76,Closed,2012/02/25 15:10:39
+Case 760,Assign seriousness,2012/01/16 14:05:59
+Case 760,Take in charge ticket,2012/01/23 11:59:24
+Case 760,Resolve ticket,2012/01/27 10:16:12
+Case 760,Closed,2012/02/16 14:10:29
+Case 766,Assign seriousness,2012/02/16 16:49:17
+Case 766,Take in charge ticket,2012/02/22 17:14:56
+Case 766,Resolve ticket,2012/02/28 10:24:47
+Case 766,Closed,2012/03/20 16:50:20
+Case 767,Assign seriousness,2012/02/22 14:21:08
+Case 767,Take in charge ticket,2012/02/23 11:37:08
+Case 767,Resolve ticket,2012/02/27 09:17:35
+Case 767,Closed,2012/03/24 14:30:28
+Case 770,Assign seriousness,2012/01/31 09:02:08
+Case 770,Take in charge ticket,2012/01/31 09:03:04
+Case 770,Wait,2012/02/08 16:01:24
+Case 770,Resolve ticket,2012/02/13 08:59:31
+Case 770,Closed,2012/03/06 11:01:45
+Case 772,Assign seriousness,2012/03/23 14:44:14
+Case 772,Take in charge ticket,2012/03/23 14:44:57
+Case 772,Resolve ticket,2012/03/23 16:02:36
+Case 772,Closed,2012/04/25 13:50:33
+Case 777,Assign seriousness,2012/03/08 09:52:53
+Case 777,Assign seriousness,2012/03/09 15:02:58
+Case 777,Resolve ticket,2012/03/09 15:38:51
+Case 777,Closed,2012/04/25 09:00:31
+Case 778,Assign seriousness,2011/12/30 16:06:55
+Case 778,Take in charge ticket,2012/01/03 08:52:43
+Case 778,Resolve ticket,2012/01/16 13:58:08
+Case 778,Closed,2012/01/31 13:58:22
+Case 785,Assign seriousness,2012/04/04 15:32:35
+Case 785,Take in charge ticket,2012/04/04 15:32:55
+Case 785,Resolve ticket,2012/04/05 07:48:31
+Case 785,Closed,2012/05/05 15:40:23
+Case 790,Assign seriousness,2012/03/22 14:36:48
+Case 790,Take in charge ticket,2012/03/26 11:55:24
+Case 790,Wait,2012/03/26 13:15:21
+Case 790,Resolve ticket,2012/03/28 10:55:14
+Case 790,Closed,2012/05/11 12:20:15
+Case 794,Assign seriousness,2012/03/01 16:56:30
+Case 794,Take in charge ticket,2012/03/07 08:32:42
+Case 794,Resolve ticket,2012/03/07 09:15:49
+Case 794,Closed,2012/04/03 16:00:28
+Case 795,Assign seriousness,2012/03/12 08:18:06
+Case 795,Take in charge ticket,2012/03/12 08:18:20
+Case 795,Resolve ticket,2012/03/12 08:50:00
+Case 795,Resolve ticket,2012/03/12 08:50:01
+Case 795,Closed,2012/04/28 07:20:35
+Case 799,Assign seriousness,2012/03/28 12:52:44
+Case 799,Take in charge ticket,2012/03/28 13:12:39
+Case 799,Wait,2012/04/13 07:24:41
+Case 799,Resolve ticket,2012/04/30 07:20:58
+Case 799,Closed,2012/05/15 07:21:13
+Case 806,Assign seriousness,2012/02/27 11:50:44
+Case 806,Take in charge ticket,2012/02/27 13:41:41
+Case 806,Wait,2012/02/28 17:09:42
+Case 806,Resolve ticket,2012/03/19 08:29:33
+Case 806,Closed,2012/04/03 07:29:45
+Case 813,Assign seriousness,2012/02/22 14:33:06
+Case 813,Take in charge ticket,2012/02/22 14:33:15
+Case 813,Resolve ticket,2012/02/24 14:42:24
+Case 813,Closed,2012/03/24 14:41:59
+Case 817,Assign seriousness,2012/03/26 15:17:58
+Case 817,Take in charge ticket,2012/03/27 08:41:06
+Case 817,Wait,2012/03/27 08:42:51
+Case 817,Take in charge ticket,2012/03/28 07:20:47
+Case 817,Wait,2012/03/28 07:44:04
+Case 817,Resolve ticket,2012/04/12 15:00:28
+Case 817,Closed,2012/04/27 15:00:45
+Case 834,Assign seriousness,2012/01/13 08:20:49
+Case 834,Assign seriousness,2012/01/13 08:35:41
+Case 834,Take in charge ticket,2012/01/13 08:39:33
+Case 834,Resolve ticket,2012/01/16 09:09:34
+Case 834,Closed,2012/03/12 08:30:55
+Case 836,Assign seriousness,2012/02/08 13:07:57
+Case 836,Take in charge ticket,2012/02/15 16:43:00
+Case 836,Create SW anomaly,2012/02/16 10:41:39
+Case 836,Resolve SW anomaly,2012/02/16 10:41:50
+Case 836,Resolve SW anomaly,2012/02/17 08:25:51
+Case 836,Resolve ticket,2012/03/09 10:39:17
+Case 836,Closed,2012/03/24 12:00:22
+Case 844,Assign seriousness,2012/01/04 09:25:07
+Case 844,Take in charge ticket,2012/01/04 09:39:58
+Case 844,Resolve ticket,2012/01/04 14:06:09
+Case 844,Closed,2012/02/11 09:30:24
+Case 850,Take in charge ticket,2011/12/21 10:30:57
+Case 850,Resolve ticket,2011/12/27 11:40:28
+Case 850,Closed,2012/02/05 10:41:06
+Case 866,Assign seriousness,2012/01/17 16:04:58
+Case 866,Take in charge ticket,2012/01/18 13:40:33
+Case 866,Resolve ticket,2012/01/26 16:15:21
+Case 866,Closed,2012/02/17 16:10:26
+Case 872,Assign seriousness,2012/03/21 16:26:16
+Case 872,Take in charge ticket,2012/03/21 16:26:28
+Case 872,Resolve ticket,2012/03/26 15:25:08
+Case 872,Closed,2012/04/21 15:30:26
+Case 880,Assign seriousness,2012/04/05 14:35:31
+Case 880,Take in charge ticket,2012/04/06 08:51:18
+Case 880,Resolve ticket,2012/04/11 09:12:13
+Case 880,Closed,2012/05/08 14:40:14
+Case 897,Assign seriousness,2012/03/16 13:08:31
+Case 897,Take in charge ticket,2012/03/16 13:08:41
+Case 897,Resolve ticket,2012/03/16 13:43:24
+Case 897,Closed,2012/04/18 12:10:22
+Case 898,Assign seriousness,2012/01/04 15:07:42
+Case 898,Take in charge ticket,2012/01/04 16:58:40
+Case 898,Wait,2012/01/10 13:55:48
+Case 898,Resolve ticket,2012/01/11 10:55:24
+Case 898,Closed,2012/02/25 10:55:46
+Case 909,Assign seriousness,2012/02/06 09:17:46
+Case 909,Take in charge ticket,2012/02/06 09:20:42
+Case 909,Resolve ticket,2012/02/06 09:53:59
+Case 909,Closed,2012/03/25 08:21:25
+Case 914,Assign seriousness,2012/01/24 13:40:05
+Case 914,Take in charge ticket,2012/01/24 13:51:17
+Case 914,Resolve ticket,2012/01/24 13:51:39
+Case 914,Closed,2012/03/08 13:50:38
+Case 931,Assign seriousness,2012/02/28 11:33:55
+Case 931,Take in charge ticket,2012/02/28 17:09:58
+Case 931,Resolve ticket,2012/02/28 17:12:09
+Case 931,Closed,2012/04/27 10:40:41
+Case 932,Assign seriousness,2012/02/16 11:01:24
+Case 932,Resolve ticket,2012/02/16 11:02:10
+Case 932,Closed,2012/03/31 10:11:41
+Case 94,Assign seriousness,2012/02/08 08:33:56
+Case 94,Take in charge ticket,2012/02/08 08:34:08
+Case 94,Resolve ticket,2012/02/08 08:34:34
+Case 94,Closed,2012/04/07 07:42:34
+Case 958,Assign seriousness,2012/02/13 15:14:30
+Case 958,Take in charge ticket,2012/02/14 11:48:30
+Case 958,Wait,2012/02/22 08:53:28
+Case 958,Take in charge ticket,2012/03/02 10:56:58
+Case 958,Resolve ticket,2012/03/02 13:52:02
+Case 958,Closed,2012/04/11 07:21:24
+Case 96,Assign seriousness,2012/02/27 16:31:32
+Case 96,Take in charge ticket,2012/02/28 08:52:59
+Case 96,Resolve ticket,2012/02/29 08:25:13
+Case 96,Resolve ticket,2012/02/29 08:25:14
+Case 96,Closed,2012/04/11 15:40:27
+Case 975,Assign seriousness,2012/03/05 10:14:32
+Case 975,Take in charge ticket,2012/03/05 13:29:12
+Case 975,Resolve ticket,2012/03/05 16:52:14
+Case 975,Resolve ticket,2012/03/05 16:52:15
+Case 975,Closed,2012/04/18 09:20:32
+Case 976,Assign seriousness,2012/01/11 15:45:36
+Case 976,Take in charge ticket,2012/01/12 14:17:06
+Case 976,Resolve ticket,2012/01/13 08:25:55
+Case 976,Closed,2012/02/11 15:50:18
+Case 983,Assign seriousness,2012/03/08 11:10:56
+Case 983,Resolve ticket,2012/03/08 11:11:48
+Case 983,Closed,2012/04/10 10:20:47
