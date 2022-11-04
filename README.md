@@ -14,11 +14,12 @@ EMS3141 | 99282 | 35 | 287117 | 28.76 | 44 | 7.01 | 80.87 | 0.69 | 296
 ## Installation
 The project is implemented with jupyter notebook in both python and pytorch.
 * pytorch: Follow the instructions in the PyTorch website https://pytorch.org/get-started/locally/
-* torch geometric: https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+* torch geometric for GNN implementation: https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+* Ax package for hyperparamaters tuning: ``pip3 install ax-platform``
 * PM4Py: 
   ``pip install pm4py``
 
 ## Implementation
-There are 4 ``.ipynb`` files in **3_Notebooks** folder. The notebook **Data_processing.ipynb** must be run first to obtain the processed data. Three other notebooks each correspond to a model, i.e., LSTM, GCN and Gated GNN.
+There are 4 ``.ipynb`` files in **3_Notebooks** folder. The notebook **Data_processing.ipynb** must be run first to obtain the processed data. Then, **Prefix_encoding_GGNN.ipynb** is to prepare data for GGNN model. Two last notebooks each correspond to a model, i.e., LSTM and Gated GNN.
 
 
